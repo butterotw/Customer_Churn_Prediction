@@ -1,0 +1,53 @@
+{
+  "columns": [
+    "Customer_Age",
+    "Total_Trans_Amt",
+    "Credit_Limit",
+    "Avg_Utilization_Ratio",
+    "Months_Inactive_12_mon",
+    "Gender_F",
+    "Gender_M",
+    "Education_Level_College",
+    "Education_Level_Doctorate",
+    "Education_Level_Graduate",
+    "Education_Level_High School",
+    "Education_Level_Post-Graduate",
+    "Education_Level_Uneducated",
+    "Education_Level_Unknown",
+    "Marital_Status_Divorced",
+    "Marital_Status_Married",
+    "Marital_Status_Single",
+    "Marital_Status_Unknown",
+    "Income_Category_$120K +",
+    "Income_Category_$40K - $60K",
+    "Income_Category_$60K - $80K",
+    "Income_Category_$80K - $120K",
+    "Income_Category_Less than $40K",
+    "Income_Category_Unknown",
+    "Card_Category_Blue",
+    "Card_Category_Gold",
+    "Card_Category_Platinum",
+    "Card_Category_Silver"
+  ],
+  "num_cols": [
+    "Customer_Age",
+    "Total_Trans_Amt",
+    "Credit_Limit",
+    "Avg_Utilization_Ratio",
+    "Months_Inactive_12_mon"
+  ],
+  "cat_cols": [
+    "Gender",
+    "Education_Level",
+    "Marital_Status",
+    "Income_Category",
+    "Card_Category"
+  ],
+  "num_means": {
+    "Customer_Age": 46.28470588235294,
+    "Total_Trans_Amt": 3848.8160294117647,
+    "Credit_Limit": 8207.309502851887,
+    "Avg_Utilization_Ratio": 0.23126039106160656,
+    "Months_Inactive_12_mon": 2.3558823529411765
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "best_params": {
+    "model__var_smoothing": 1.0
+  },
+  "best_score": 0.7401869764712172,
+  "all_results": [
+    {
+      "Var_Smoothing": 1.0,
+      "ROC-AUC": 0.7401869765
+    },
+    {
+      "Var_Smoothing": 0.1,
+      "ROC-AUC": 0.7376649612
+    },
+    {
+      "Var_Smoothing": 0.01,
+      "ROC-AUC": 0.7304671155
+    },
+    {
+      "Var_Smoothing": 0.001,
+      "ROC-AUC": 0.7277573998
+    },
+    {
+      "Var_Smoothing": 0.0001,
+      "ROC-AUC": 0.7274387787
+    },
+    {
+      "Var_Smoothing": 1e-05,
+      "ROC-AUC": 0.7274032024
+    },
+    {
+      "Var_Smoothing": 1e-06,
+      "ROC-AUC": 0.7273969847
+    },
+    {
+      "Var_Smoothing": 1e-07,
+      "ROC-AUC": 0.7273981142
+    },
+    {
+      "Var_Smoothing": 1e-08,
+      "ROC-AUC": 0.7273981142
+    },
+    {
+      "Var_Smoothing": 1e-09,
+      "ROC-AUC": 0.7273981142
+    }
+  ]
+}

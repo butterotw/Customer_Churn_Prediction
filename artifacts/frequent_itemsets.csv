@@ -1,0 +1,1211 @@
+items,item_count,support,customers,churn_rate
+Inactivity_Level_Moderate,1,0.7038609657351634,7128,0.1867283950617284
+Age_Group_Middle,1,0.6318751851486126,6399,0.16783872480075013
+Marital_Status_Married,1,0.4628221585859583,4687,0.15126946874333264
+Age_Group_Middle + Inactivity_Level_Moderate,2,0.44662782660215267,4523,0.20406809639619722
+Marital_Status_Single,1,0.3893551890984497,3943,0.16941415166117169
+Income_Category_Less than $40K,1,0.35163424508739016,3561,0.17186183656276327
+Transaction_Count_Level_Low,1,0.34146341463414637,3458,0.3765182186234818
+Utilization_Level_Low,1,0.33484743754320134,3391,0.29784724270126806
+Transaction_Amount_Level_Low,1,0.33356374049570453,3378,0.31645944345766724
+Transaction_Amount_Level_High,1,0.3333662486422435,3376,0.09093601895734597
+Utilization_Level_High,1,0.3333662486422435,3376,0.08619668246445497
+Transaction_Count_Level_Medium,1,0.333267502715513,3375,0.07970370370370371
+Transaction_Amount_Level_Medium,1,0.33307001086205196,3373,0.07441446783278981
+Utilization_Level_Medium,1,0.33178631381455514,3360,0.09702380952380953
+Transaction_Count_Level_High,1,0.32526908265034066,3294,0.01700060716454159
+Inactivity_Level_Moderate + Marital_Status_Married,2,0.32220795892169446,3263,0.17989580140974562
+Education_Level_Graduate,1,0.308877258813074,3128,0.15569053708439898
+Age_Group_Middle + Marital_Status_Married,2,0.29880517428656067,3026,0.1625908790482485
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low,2,0.29860768243309965,3024,0.3419312169312169
+Marital_Status_Single + Inactivity_Level_Moderate,2,0.2786610052335341,2822,0.1913536498936924
+Transaction_Count_Level_Low + Inactivity_Level_Moderate,2,0.2503209242618742,2535,0.41775147928994083
+Income_Category_Less than $40K + Inactivity_Level_Moderate,2,0.2489384812876469,2521,0.20269734232447442
+Transaction_Amount_Level_Low + Inactivity_Level_Moderate,2,0.24271748790362396,2458,0.3506916192026037
+Utilization_Level_Low + Inactivity_Level_Moderate,2,0.24251999605016292,2456,0.33916938110749184
+Transaction_Amount_Level_High + Transaction_Count_Level_High,2,0.23857015898094203,2416,0.023178807947019868
+Age_Group_Young,1,0.2366939863730621,2397,0.14267834793491865
+Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,2,0.23373160857114644,2367,0.08956485002112378
+Utilization_Level_High + Inactivity_Level_Moderate,2,0.23165794410980547,2346,0.10656436487638533
+Transaction_Count_Level_Medium + Inactivity_Level_Moderate,2,0.23146045225634443,2344,0.09684300341296928
+Age_Group_Middle + Marital_Status_Single,2,0.23076923076923078,2337,0.17715019255455713
+Inactivity_Level_Moderate + Utilization_Level_Medium,2,0.22968302557519502,2326,0.10662080825451418
+Transaction_Amount_Level_High + Age_Group_Middle,2,0.22820183667423719,2311,0.08351363046300303
+Transaction_Amount_Level_High + Inactivity_Level_Moderate,2,0.227411869260393,2303,0.11159357359965262
+Inactivity_Level_Few,1,0.2233632862644416,2262,0.05083996463306808
+Inactivity_Level_Moderate + Transaction_Count_Level_High,2,0.2220795892169448,2249,0.020008892841262782
+Age_Group_Middle + Transaction_Amount_Level_Medium,2,0.22178335143675323,2246,0.07123775601068566
+Age_Group_Middle + Transaction_Count_Level_High,2,0.22168460551002273,2245,0.013808463251670379
+Utilization_Level_Low + Age_Group_Middle,2,0.22099338402290905,2238,0.30116175156389635
+Education_Level_Graduate + Inactivity_Level_Moderate,2,0.218524735854646,2213,0.18210573881608677
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.21704354695368816,2198,0.37898089171974525
+Income_Category_Less than $40K + Age_Group_Middle,2,0.2144761528586946,2172,0.1832412523020258
+Transaction_Count_Level_Medium + Age_Group_Middle,2,0.21329120173792832,2160,0.07592592592592592
+Age_Group_Middle + Utilization_Level_Medium,2,0.2110200454231263,2137,0.09780065512400561
+Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,2,0.20865014318159375,2113,0.010411736867013724
+Age_Group_Middle + Inactivity_Level_Moderate + Marital_Status_Married,3,0.20677397057371383,2094,0.20057306590257878
+Utilization_Level_High + Age_Group_Middle,2,0.19986175570257728,2024,0.09436758893280632
+Education_Level_High School,1,0.1987755505085415,2013,0.15201192250372578
+Transaction_Count_Level_Low + Age_Group_Middle,2,0.1968993779006616,1994,0.4408224674022066
+Education_Level_Graduate + Age_Group_Middle,2,0.19482571343932062,1973,0.16320324379118095
+Transaction_Count_Level_Low + Marital_Status_Married,2,0.19383825417201542,1963,0.29393785022924096
+Transaction_Amount_Level_Low + Marital_Status_Married,2,0.1889997037622198,1914,0.24921630094043887
+Transaction_Amount_Level_Low + Age_Group_Middle,2,0.1818899970376222,1842,0.3914223669923996
+Utilization_Level_High + Income_Category_Less than $40K,2,0.1796188407228202,1819,0.09180868609125893
+Income_Category_$40K - $60K,1,0.17675520884763504,1790,0.15139664804469274
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Marital_Status_Married,3,0.17478029031302458,1770,0.26101694915254237
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Age_Group_Middle,3,0.1708304532438037,1730,0.4052023121387283
+Age_Group_Young + Inactivity_Level_Moderate,2,0.16885553470919323,1710,0.16783625730994153
+Age_Group_Middle + Inactivity_Level_Moderate + Marital_Status_Single,3,0.16757183766169645,1697,0.21096051856216852
+Utilization_Level_High + Marital_Status_Married,2,0.16401698429939765,1661,0.07947019867549669
+Transaction_Amount_Level_High + Age_Group_Middle + Transaction_Count_Level_High,3,0.163325762812284,1654,0.018742442563482467
+Utilization_Level_Low + Age_Group_Middle + Inactivity_Level_Moderate,3,0.1629307791053619,1650,0.3527272727272727
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.161054606497482,1631,0.027590435315757205
+Income_Category_Less than $40K + Marital_Status_Married,2,0.1607583687172904,1628,0.16154791154791154
+Age_Group_Middle + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.15621605608768638,1582,0.09102402022756005
+Transaction_Amount_Level_High + Age_Group_Middle + Inactivity_Level_Moderate,3,0.1550311049669201,1570,0.11146496815286625
+Utilization_Level_Medium + Marital_Status_Married,2,0.15424113755307595,1562,0.08578745198463508
+Income_Category_Less than $40K + Age_Group_Middle + Inactivity_Level_Moderate,3,0.15394489977288436,1559,0.22001282873636946
+Income_Category_$80K - $120K,1,0.15157499753135184,1535,0.15765472312703582
+Age_Group_Middle + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.15019255455712452,1521,0.01775147928994083
+Education_Level_Unknown,1,0.14999506270366347,1519,0.1685319289005925
+Transaction_Count_Level_Medium + Marital_Status_Single,2,0.14979757085020243,1517,0.07712590639419907
+Marital_Status_Single + Transaction_Amount_Level_Medium,2,0.14890885750962773,1508,0.06830238726790451
+Transaction_Count_Level_Medium + Age_Group_Middle + Inactivity_Level_Moderate,3,0.14821763602251406,1501,0.09993337774816789
+Transaction_Count_Level_Low + Age_Group_Middle + Inactivity_Level_Moderate,3,0.14821763602251406,1501,0.49700199866755496
+Education_Level_Uneducated,1,0.14683519304828677,1487,0.1593813046402152
+Education_Level_Graduate + Marital_Status_Married,2,0.14604522563444258,1479,0.1440162271805274
+Age_Group_Middle + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.14505776636713735,1469,0.11640571817562968
+Utilization_Level_Low + Marital_Status_Married,2,0.14456403673348475,1464,0.3025956284153005
+Transaction_Amount_Level_High + Marital_Status_Married,2,0.14387281524637108,1457,0.08098833218943034
+Transaction_Count_Level_Medium + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.14387281524637108,1457,0.013726835964310227
+Income_Category_Less than $40K + Marital_Status_Single,2,0.14110792929791646,1429,0.17914625612316304
+Transaction_Count_Level_Low + Inactivity_Level_Moderate + Marital_Status_Married,3,0.14071294559099437,1425,0.33263157894736844
+Transaction_Count_Level_Medium + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.14061419966426386,1424,0.007724719101123595
+Education_Level_High School + Inactivity_Level_Moderate,2,0.13933050261676705,1411,0.17505315379163713
+Utilization_Level_High + Age_Group_Middle + Inactivity_Level_Moderate,3,0.1386392811296534,1404,0.12108262108262108
+Transaction_Count_Level_High + Marital_Status_Married,2,0.13844178927619236,1402,0.014265335235378032
+Income_Category_$60K - $80K,1,0.13844178927619236,1402,0.13480741797432239
+Utilization_Level_Low + Marital_Status_Single,2,0.13834304334946185,1401,0.2926481084939329
+Age_Group_Middle + Inactivity_Level_Few,2,0.13705934630196503,1388,0.03170028818443804
+Transaction_Amount_Level_High + Marital_Status_Single,2,0.136861854448504,1386,0.10245310245310245
+Education_Level_Graduate + Age_Group_Middle + Inactivity_Level_Moderate,3,0.136861854448504,1386,0.19552669552669552
+Transaction_Amount_Level_Low + Inactivity_Level_Moderate + Marital_Status_Married,3,0.1358743951811988,1376,0.28125
+Transaction_Amount_Level_Low + Age_Group_Middle + Inactivity_Level_Moderate,3,0.13538066554754616,1371,0.44055433989788473
+Marital_Status_Single + Transaction_Count_Level_High,2,0.1351831736940851,1369,0.02191380569758948
+Age_Group_Old,1,0.13143082847832527,1331,0.1585274229902329
+Transaction_Count_Level_Medium + Marital_Status_Married,2,0.13054211513775058,1322,0.08472012102874432
+Marital_Status_Married + Transaction_Amount_Level_Medium,2,0.12994963957736744,1316,0.08662613981762918
+Marital_Status_Single + Utilization_Level_Medium,2,0.12728349955564333,1289,0.1078355314197052
+Transaction_Amount_Level_High + Income_Category_Less than $40K,2,0.12678976992199073,1284,0.06074766355140187
+Utilization_Level_High + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.12659227806852968,1282,0.11388455538221529
+Utilization_Level_Low + Transaction_Count_Level_Low,2,0.1261972943616076,1278,0.6189358372456965
+Utilization_Level_High + Marital_Status_Single,2,0.12372864619334452,1253,0.09497206703910614
+Income_Category_Less than $40K + Transaction_Amount_Level_Medium,2,0.12264244099930878,1242,0.0966183574879227
+Age_Group_Middle + Education_Level_High School,2,0.12224745729238669,1238,0.1518578352180937
+Transaction_Count_Level_Medium + Income_Category_Less than $40K,2,0.12204996543892564,1236,0.06634304207119741
+Income_Category_Less than $40K + Transaction_Count_Level_High,2,0.12175372765873407,1233,0.010543390105433901
+Income_Category_$40K - $60K + Inactivity_Level_Moderate,2,0.12125999802508146,1228,0.17996742671009772
+Education_Level_Graduate + Marital_Status_Single,2,0.11819887429643527,1197,0.16875522138680032
+Utilization_Level_High + Transaction_Count_Level_Medium,2,0.11731016095586057,1188,0.02356902356902357
+Utilization_Level_High + Transaction_Amount_Level_Medium,2,0.11721141502913004,1187,0.05728727885425442
+Utilization_Level_Low + Transaction_Amount_Level_Low,2,0.11691517724893848,1184,0.5540540540540541
+Transaction_Amount_Level_Low + Utilization_Level_Medium,2,0.11513775056778908,1166,0.1783876500857633
+Transaction_Amount_Level_High + Utilization_Level_High,2,0.11464402093413646,1161,0.015503875968992248
+Utilization_Level_High + Transaction_Count_Level_High,2,0.11405154537375334,1155,0.0017316017316017316
+Utilization_Level_High + Inactivity_Level_Moderate + Marital_Status_Married,3,0.11395279944702282,1154,0.09965337954939342
+Utilization_Level_Medium + Transaction_Count_Level_High,2,0.11365656166683125,1151,0.011294526498696786
+Transaction_Count_Level_Low + Utilization_Level_Medium,2,0.11326157795990915,1147,0.21795989537925023
+Education_Level_Graduate + Income_Category_Less than $40K,2,0.11247161054606497,1139,0.18437225636523266
+Income_Category_Less than $40K + Inactivity_Level_Moderate + Marital_Status_Married,3,0.1121753727658734,1136,0.19718309859154928
+Transaction_Amount_Level_High + Utilization_Level_Medium,2,0.1121753727658734,1136,0.07042253521126761
+Utilization_Level_Low + Transaction_Amount_Level_Medium,2,0.11138540535202923,1128,0.12854609929078015
+Utilization_Level_Low + Transaction_Count_Level_Medium,2,0.11108916757183766,1125,0.1582222222222222
+Income_Category_Unknown,1,0.10980547052434086,1112,0.1681654676258993
+Utilization_Level_High + Income_Category_Less than $40K + Age_Group_Middle,3,0.10931174089068826,1107,0.10298102981029811
+Income_Category_$80K - $120K + Inactivity_Level_Moderate,2,0.10822553569665251,1096,0.18248175182481752
+Income_Category_Less than $40K + Transaction_Count_Level_Low,2,0.10783055198973042,1092,0.4734432234432234
+Inactivity_Level_Few + Marital_Status_Married,2,0.10694183864915573,1083,0.04339796860572484
+Education_Level_Graduate + Transaction_Count_Level_Low,2,0.1068430927224252,1082,0.36229205175600737
+Transaction_Amount_Level_High + Utilization_Level_Low,2,0.10654685494223363,1079,0.1936978683966636
+Utilization_Level_Low + Transaction_Count_Level_Low + Transaction_Amount_Level_Low,3,0.1059543793818505,1073,0.5917986952469712
+Transaction_Count_Level_Medium + Marital_Status_Single + Inactivity_Level_Moderate,3,0.10585563345511997,1072,0.09421641791044776
+Marital_Status_Single + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.10546064974819788,1068,0.07865168539325842
+Income_Category_$40K - $60K + Age_Group_Middle,2,0.10536190382146736,1067,0.16776007497656983
+Education_Level_Graduate + Transaction_Amount_Level_Low,2,0.10526315789473684,1066,0.3123827392120075
+Transaction_Amount_Level_High + Transaction_Count_Level_High + Marital_Status_Married,3,0.10526315789473684,1066,0.01876172607879925
+Education_Level_Uneducated + Inactivity_Level_Moderate,2,0.10486817418781476,1062,0.18361581920903955
+Transaction_Count_Level_Medium + Utilization_Level_Medium,2,0.10486817418781476,1062,0.059322033898305086
+Transaction_Amount_Level_High + Age_Group_Middle + Marital_Status_Married,3,0.10467068233435371,1060,0.07547169811320754
+Utilization_Level_Low + Age_Group_Middle + Marital_Status_Married,3,0.10447319048089267,1058,0.2948960302457467
+Transaction_Amount_Level_High + Education_Level_Graduate,2,0.10447319048089267,1058,0.08412098298676748
+Income_Category_$80K - $120K + Age_Group_Middle,2,0.10447319048089267,1058,0.16446124763705103
+Utilization_Level_Medium + Transaction_Amount_Level_Medium,2,0.10447319048089267,1058,0.035916824196597356
+Transaction_Count_Level_Low + Marital_Status_Single,2,0.10437444455416214,1057,0.49290444654683063
+Utilization_Level_Medium + Inactivity_Level_Moderate + Marital_Status_Married,3,0.10427569862743162,1056,0.09659090909090909
+Education_Level_Graduate + Utilization_Level_Medium,2,0.10407820677397057,1054,0.09013282732447818
+Utilization_Level_Low + Inactivity_Level_Moderate + Marital_Status_Married,3,0.10397946084724005,1053,0.3513770180436847
+Transaction_Amount_Level_Low + Marital_Status_Single,2,0.10358447714031796,1049,0.40324118207816967
+Education_Level_Graduate + Utilization_Level_High,2,0.10309074750666535,1044,0.08237547892720307
+Transaction_Count_Level_High + Age_Group_Middle + Marital_Status_Married,3,0.10299200157993482,1043,0.012464046021093002
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.10299200157993482,1043,0.19463087248322147
+Income_Category_Less than $40K + Marital_Status_Single + Inactivity_Level_Moderate,3,0.1028932556532043,1042,0.19865642994241842
+Education_Level_Unknown + Inactivity_Level_Moderate,2,0.10279450972647378,1041,0.20076849183477424
+Education_Level_Graduate + Inactivity_Level_Moderate + Marital_Status_Married,3,0.10279450972647378,1041,0.17098943323727187
+Age_Group_Young + Marital_Status_Single,2,0.10259701787301274,1039,0.14340712223291627
+Transaction_Amount_Level_Low + Income_Category_Less than $40K,2,0.10220203416609065,1035,0.4
+Utilization_Level_High + Transaction_Count_Level_Low,2,0.1020045423126296,1033,0.2526621490803485
+Education_Level_Graduate + Utilization_Level_Low,2,0.10170830453243804,1030,0.2970873786407767
+Education_Level_Graduate + Transaction_Count_Level_High,2,0.10170830453243804,1030,0.013592233009708738
+Age_Group_Young + Marital_Status_Married,2,0.10160955860570751,1029,0.1360544217687075
+Utilization_Level_High + Transaction_Amount_Level_Low,2,0.10151081267897699,1028,0.19941634241245138
+Utilization_Level_Low + Marital_Status_Single + Inactivity_Level_Moderate,3,0.10062209933840228,1019,0.3297350343473994
+Education_Level_Graduate + Transaction_Count_Level_Medium,2,0.10032586155821073,1016,0.0797244094488189
+Transaction_Count_Level_Low + Age_Group_Middle + Marital_Status_Married,3,0.10022711563148021,1015,0.4
+Income_Category_Less than $40K + Age_Group_Middle + Marital_Status_Married,3,0.10022711563148021,1015,0.1852216748768473
+Education_Level_College,1,0.10002962377801916,1013,0.15202369200394866
+Age_Group_Middle + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.0993384022909055,1006,0.08648111332007952
+Education_Level_Graduate + Transaction_Amount_Level_Medium,2,0.09914091043744445,1004,0.0647410358565737
+Income_Category_$60K - $80K + Inactivity_Level_Moderate,2,0.09884467265725289,1001,0.15484515484515485
+Utilization_Level_Medium + Age_Group_Middle + Marital_Status_Married,3,0.09815345117013922,994,0.08551307847082495
+Utilization_Level_Low + Transaction_Count_Level_High,2,0.0975609756097561,988,0.04149797570850203
+Age_Group_Middle + Education_Level_Unknown,2,0.09736348375629506,986,0.17545638945233266
+Utilization_Level_Low + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.09637602448898983,976,0.6629098360655737
+Transaction_Amount_Level_High + Marital_Status_Single + Inactivity_Level_Moderate,3,0.0962772785622593,975,0.12
+Utilization_Level_High + Age_Group_Middle + Marital_Status_Married,3,0.09617853263552878,974,0.09753593429158111
+Transaction_Count_Level_Medium + Age_Group_Middle + Marital_Status_Married,3,0.09558605707514566,968,0.07541322314049587
+Transaction_Amount_Level_High + Marital_Status_Single + Transaction_Count_Level_High,3,0.09519107336822356,964,0.03112033195020747
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Marital_Status_Married,3,0.09509232744149304,963,0.10384215991692627
+Education_Level_Graduate + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.094894835588032,961,0.331945889698231
+Marital_Status_Single + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.094894835588032,961,0.021852237252861603
+Transaction_Amount_Level_Low + Age_Group_Middle + Marital_Status_Married,3,0.09479608966130147,960,0.3385416666666667
+Transaction_Count_Level_Medium + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.0944998518811099,957,0.01044932079414838
+Education_Level_High School + Marital_Status_Married,2,0.09370988446726572,949,0.14436248682824027
+Education_Level_Graduate + Age_Group_Middle + Marital_Status_Married,3,0.09321615483361312,944,0.15466101694915255
+Age_Group_Young + Transaction_Amount_Level_Low,2,0.09291991705342155,941,0.21679064824654623
+Inactivity_Level_Moderate + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.09124123629900266,924,0.10822510822510822
+Transaction_Count_Level_High + Inactivity_Level_Moderate + Marital_Status_Married,3,0.09114249037227215,923,0.01950162513542795
+Education_Level_Uneducated + Age_Group_Middle,2,0.09104374444554163,922,0.1681127982646421
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Transaction_Count_Level_Low,3,0.09074750666535006,919,0.4309031556039173
+Utilization_Level_Low + Income_Category_Less than $40K,2,0.09045126888515849,916,0.3777292576419214
+Transaction_Count_Level_Medium + Inactivity_Level_Moderate + Marital_Status_Married,3,0.09035252295842797,915,0.10382513661202186
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium,2,0.09025377703169744,914,0.23194748358862144
+Utilization_Level_High + Transaction_Count_Level_Low + Transaction_Amount_Level_Low,3,0.0896613014713143,908,0.21585903083700442
+Marital_Status_Single + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.08956255554458378,907,0.11466372657111357
+Income_Category_$60K - $80K + Age_Group_Middle,2,0.08936506369112274,905,0.12375690607734807
+Utilization_Level_Low + Inactivity_Level_Moderate + Transaction_Amount_Level_Low,3,0.08877258813073961,899,0.5951056729699666
+Utilization_Level_High + Marital_Status_Single + Inactivity_Level_Moderate,3,0.08847635035054804,896,0.11160714285714286
+Age_Group_Old + Inactivity_Level_Moderate,2,0.08837760442381752,895,0.13519553072625698
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.08808136664362595,892,0.014573991031390135
+Inactivity_Level_Moderate + Age_Group_Middle + Education_Level_High School,3,0.08739014515651229,885,0.18531073446327684
+Utilization_Level_Medium + Transaction_Amount_Level_High + Transaction_Count_Level_High,3,0.08739014515651229,885,0.014689265536723164
+Income_Category_Less than $40K + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.08719265330305125,883,0.11778029445073612
+Age_Group_Young + Income_Category_Less than $40K,2,0.0869951614495902,881,0.1532349602724177
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Marital_Status_Single,3,0.0869951614495902,881,0.4642451759364359
+Transaction_Amount_Level_High + Age_Group_Middle + Marital_Status_Single,3,0.08679766959612915,879,0.09556313993174062
+Utilization_Level_High + Income_Category_Less than $40K + Marital_Status_Married,3,0.08630393996247655,874,0.08237986270022883
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.08620519403574603,873,0.07216494845360824
+Transaction_Count_Level_High + Transaction_Amount_Level_Medium,2,0.08610644810901551,872,0.0
+Age_Group_Young + Utilization_Level_High,2,0.08561271847536289,867,0.0784313725490196
+Age_Group_Young + Transaction_Count_Level_Low,2,0.08531648069517132,864,0.2881944444444444
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.0852177347684408,863,0.07879490150637311
+Age_Group_Middle + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.08462525920805766,857,0.057176196032672114
+Education_Level_Graduate + Marital_Status_Single + Inactivity_Level_Moderate,3,0.08423027550113558,853,0.19226260257913247
+Income_Category_Less than $40K + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.08294657845363879,840,0.013095238095238096
+Marital_Status_Single + Inactivity_Level_Few,2,0.08284783252690826,839,0.060786650774731825
+Utilization_Level_Low + Age_Group_Middle + Marital_Status_Single,3,0.0825515947467167,836,0.31220095693779903
+Transaction_Count_Level_Medium + Age_Group_Middle + Marital_Status_Single,3,0.08245284881998617,835,0.07904191616766468
+Age_Group_Young + Transaction_Count_Level_Medium,2,0.08245284881998617,835,0.08982035928143713
+Marital_Status_Single + Age_Group_Middle + Transaction_Count_Level_High,3,0.08225535696652513,833,0.01800720288115246
+Utilization_Level_Low + Transaction_Count_Level_Low + Age_Group_Middle,3,0.08225535696652513,833,0.6458583433373349
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Age_Group_Middle,3,0.08186037325960305,829,0.05307599517490953
+Utilization_Level_Low + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.081662881406142,827,0.1837968561064087
+Income_Category_Less than $40K + Utilization_Level_Medium,2,0.08156413547941148,826,0.1198547215496368
+Education_Level_Graduate + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.08146538955268096,825,0.39636363636363636
+Transaction_Amount_Level_High + Inactivity_Level_Few,2,0.08116915177248939,822,0.032846715328467155
+Utilization_Level_High + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.08116915177248939,822,0.07420924574209246
+Transaction_Amount_Level_Low + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.0807741680655673,818,0.18581907090464547
+Income_Category_Less than $40K + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.0807741680655673,818,0.5281173594132029
+Income_Category_$40K - $60K + Marital_Status_Married,2,0.08057667621210625,816,0.1556372549019608
+Utilization_Level_Low + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.08057667621210625,816,0.15073529411764705
+Education_Level_Graduate + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.0803791843586452,814,0.2199017199017199
+Income_Category_Less than $40K + Age_Group_Middle + Marital_Status_Single,3,0.08018169250518416,812,0.18226600985221675
+Inactivity_Level_Few + Utilization_Level_Medium,2,0.07988545472499259,809,0.03337453646477132
+Transaction_Count_Level_Low + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.07978670879826207,808,0.23143564356435645
+Transaction_Amount_Level_High + Utilization_Level_High + Transaction_Count_Level_High,3,0.07949047101807051,805,0.002484472049689441
+Inactivity_Level_Few + Transaction_Count_Level_High,2,0.07949047101807051,805,0.004968944099378882
+Transaction_Count_Level_Medium + Inactivity_Level_Few,2,0.07949047101807051,805,0.02981366459627329
+Income_Category_Less than $40K + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.07939172509133999,804,0.09825870646766169
+Income_Category_Less than $40K + Age_Group_Middle + Transaction_Count_Level_High,3,0.07939172509133999,804,0.008706467661691543
+Utilization_Level_Medium + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.07929297916460946,803,0.012453300124533
+Utilization_Level_High + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.07919423323787894,802,0.029925187032418952
+Education_Level_Graduate + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.07879924953095685,798,0.34461152882205515
+Transaction_Count_Level_Medium + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.07879924953095685,798,0.010025062656641603
+Utilization_Level_High + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.07830551989730423,793,0.0012610340479192938
+Utilization_Level_Medium + Age_Group_Middle + Transaction_Count_Level_High,3,0.07810802804384319,791,0.010113780025284451
+Transaction_Count_Level_Low + Marital_Status_Single + Inactivity_Level_Moderate,3,0.07791053619038214,789,0.5297845373891001
+Transaction_Amount_Level_High + Utilization_Level_High + Age_Group_Middle,3,0.07791053619038214,789,0.01394169835234474
+Transaction_Amount_Level_High + Age_Group_Middle + Utilization_Level_Medium,3,0.07761429841019057,786,0.058524173027989825
+Utilization_Level_High + Age_Group_Middle + Transaction_Count_Level_High,3,0.07741680655672953,784,0.0
+Transaction_Amount_Level_High + Utilization_Level_High + Inactivity_Level_Moderate,3,0.07731806062999902,783,0.017879948914431672
+Marital_Status_Single + Education_Level_High School,2,0.0772193147032685,782,0.15089514066496162
+Transaction_Amount_Level_Low + Marital_Status_Single + Inactivity_Level_Moderate,3,0.07692307692307693,779,0.43517329910141206
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.07692307692307693,779,0.08729139922978177
+Utilization_Level_Medium + Age_Group_Middle + Marital_Status_Single,3,0.0768243309963464,778,0.11053984575835475
+Utilization_Level_High + Inactivity_Level_Few,2,0.0768243309963464,778,0.021850899742930592
+Utilization_Level_Low + Age_Group_Young,2,0.0759356176557717,769,0.2717815344603381
+Inactivity_Level_Few + Transaction_Amount_Level_Medium,2,0.07573812580231065,767,0.014341590612777053
+Age_Group_Young + Transaction_Amount_Level_Medium,2,0.0755406339488496,765,0.07712418300653595
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.0755406339488496,765,0.4496732026143791
+Utilization_Level_Low + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.07544188802211908,764,0.11910994764397906
+Income_Category_Less than $40K + Inactivity_Level_Few,2,0.07544188802211908,764,0.0549738219895288
+Transaction_Amount_Level_High + Education_Level_Graduate + Transaction_Count_Level_High,3,0.07544188802211908,764,0.01832460732984293
+Utilization_Level_High + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.07534314209538856,763,0.061598951507208385
+Age_Group_Young + Utilization_Level_Medium,2,0.07514565024192751,761,0.08541392904073587
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Age_Group_Middle,3,0.07494815838846648,759,0.05928853754940711
+Inactivity_Level_Moderate + Income_Category_Unknown,2,0.07494815838846648,759,0.19367588932806323
+Education_Level_Graduate + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.07425693690135282,752,0.34574468085106386
+Income_Category_$80K - $120K + Age_Group_Middle + Inactivity_Level_Moderate,3,0.0741581909746223,751,0.19840213049267644
+Age_Group_Young + Marital_Status_Single + Inactivity_Level_Moderate,3,0.0741581909746223,751,0.16511318242343542
+Utilization_Level_High + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.0741581909746223,751,0.2996005326231691
+Marital_Status_Unknown,1,0.07396069912116125,749,0.17222963951935916
+Marital_Status_Divorced,1,0.07386195319443073,748,0.16176470588235295
+Education_Level_Graduate + Age_Group_Young,2,0.07346696948750864,744,0.14650537634408603
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Transaction_Amount_Level_Medium,3,0.07336822356077811,743,0.010767160161507403
+Utilization_Level_High + Inactivity_Level_Moderate + Transaction_Amount_Level_Low,3,0.07317073170731707,741,0.23616734143049933
+Transaction_Amount_Level_High + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.07317073170731707,741,0.23616734143049933
+Income_Category_$40K - $60K + Age_Group_Middle + Inactivity_Level_Moderate,3,0.07307198578058655,740,0.21351351351351353
+Utilization_Level_Low + Age_Group_Middle + Transaction_Amount_Level_Low,3,0.0728744939271255,738,0.6056910569105691
+Inactivity_Level_Many,1,0.07277574800039498,737,0.24559023066485752
+Education_Level_Graduate + Utilization_Level_High + Inactivity_Level_Moderate,3,0.07277574800039498,737,0.10176390773405698
+Age_Group_Young + Transaction_Count_Level_Low + Transaction_Amount_Level_Low,3,0.07277574800039498,737,0.26051560379918587
+Transaction_Amount_Level_High + Utilization_Level_Low + Age_Group_Middle,3,0.07267700207366447,736,0.18478260869565216
+Utilization_Level_Low + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.07257825614693394,735,0.15374149659863945
+Income_Category_$80K - $120K + Marital_Status_Married,2,0.07257825614693394,735,0.1401360544217687
+Transaction_Amount_Level_High + Age_Group_Middle + Education_Level_Graduate,3,0.0723807642934729,733,0.07366984993178717
+Age_Group_Young + Inactivity_Level_Moderate + Marital_Status_Married,3,0.07198578058655081,729,0.16323731138545952
+Inactivity_Level_Moderate + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.07198578058655081,729,0.038408779149519894
+Income_Category_$120K +,1,0.07178828873308976,727,0.1733149931224209
+Transaction_Amount_Level_High + Utilization_Level_Low + Transaction_Count_Level_High,3,0.07168954280635924,726,0.05647382920110193
+Education_Level_Graduate + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.07149205095289819,724,0.09392265193370165
+Utilization_Level_High + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.07149205095289819,724,0.023480662983425413
+Utilization_Level_High + Age_Group_Middle + Marital_Status_Single,3,0.07139330502616767,723,0.09266943291839558
+Education_Level_College + Inactivity_Level_Moderate,2,0.07129455909943715,722,0.17590027700831026
+Utilization_Level_High + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.07129455909943715,722,0.008310249307479225
+Age_Group_Middle + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.07099832131924558,719,0.030598052851182198
+Education_Level_Graduate + Age_Group_Middle + Marital_Status_Single,3,0.07080082946578453,717,0.17573221757322174
+Transaction_Count_Level_Medium + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.07060333761232349,715,0.07132867132867132
+Education_Level_Graduate + Age_Group_Middle + Transaction_Count_Level_High,3,0.07050459168559296,714,0.00980392156862745
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Education_Level_Graduate,3,0.06991211612520984,708,0.10028248587570622
+Education_Level_Graduate + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.06981337019847932,707,0.08062234794908062
+Income_Category_$40K - $60K + Marital_Status_Single,2,0.06951713241828775,704,0.14914772727272727
+Income_Category_$40K - $60K + Utilization_Level_High,2,0.06951713241828775,704,0.07244318181818182
+Transaction_Count_Level_Medium + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.06941838649155722,703,0.004267425320056899
+Transaction_Count_Level_Medium + Age_Group_Middle + Utilization_Level_Medium,3,0.06922089463809618,701,0.04850213980028531
+Income_Category_$80K - $120K + Utilization_Level_Low,2,0.06912214871136566,700,0.23142857142857143
+Education_Level_Graduate + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.06902340278463513,699,0.015736766809728183
+Age_Group_Young + Transaction_Count_Level_High,2,0.06892465685790461,698,0.025787965616045846
+Utilization_Level_High + Income_Category_Less than $40K + Marital_Status_Single,3,0.06862841907771304,695,0.09640287769784173
+Transaction_Count_Level_Low + Education_Level_High School,2,0.06833218129752147,692,0.34971098265895956
+Transaction_Amount_Level_High + Age_Group_Young,2,0.06823343537079095,691,0.11432706222865413
+Utilization_Level_High + Education_Level_High School,2,0.06813468944406043,690,0.06231884057971015
+Education_Level_Graduate + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.06803594351732992,689,0.09433962264150944
+Utilization_Level_Low + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.0679371975905994,688,0.0188953488372093
+Education_Level_Unknown + Marital_Status_Married,2,0.0679371975905994,688,0.16279069767441862
+Education_Level_Graduate + Inactivity_Level_Few,2,0.06783845166386887,687,0.04512372634643377
+Age_Group_Young + Inactivity_Level_Moderate + Transaction_Amount_Level_Low,3,0.06783845166386887,687,0.2547307132459971
+Education_Level_Graduate + Income_Category_Less than $40K + Age_Group_Middle,3,0.06773970573713835,686,0.19533527696793002
+Age_Group_Middle + Inactivity_Level_Few + Marital_Status_Married,3,0.0675422138836773,684,0.03070175438596491
+Utilization_Level_Medium + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.06734472203021626,682,0.1187683284457478
+Utilization_Level_Low + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.06694973832329416,678,0.42920353982300885
+Transaction_Amount_Level_Low + Education_Level_High School,2,0.06694973832329416,678,0.29056047197640117
+Age_Group_Middle + Income_Category_Unknown,2,0.06675224646983312,676,0.1849112426035503
+Utilization_Level_Low + Inactivity_Level_Few,2,0.0666535005431026,675,0.10518518518518519
+Education_Level_High School + Utilization_Level_Medium,2,0.06655475461637207,674,0.09347181008902077
+Transaction_Amount_Level_Low + Inactivity_Level_Few,2,0.06645600868964155,673,0.11441307578008915
+Utilization_Level_Medium + Transaction_Count_Level_Low + Marital_Status_Married,3,0.06635726276291103,672,0.15178571428571427
+Income_Category_Less than $40K + Education_Level_High School,2,0.0662585168361805,671,0.15052160953800298
+Age_Group_Middle + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.0662585168361805,671,0.21907600596125187
+Utilization_Level_High + Transaction_Count_Level_Low + Marital_Status_Married,3,0.0662585168361805,671,0.17585692995529062
+Utilization_Level_Low + Age_Group_Middle + Transaction_Count_Level_High,3,0.06615977090944998,670,0.034328358208955224
+Transaction_Amount_Level_High + Education_Level_High School,2,0.06606102498271946,669,0.08520179372197309
+Transaction_Count_Level_Low + Age_Group_Middle + Marital_Status_Single,3,0.06606102498271946,669,0.4977578475336323
+Transaction_Amount_Level_High + Utilization_Level_High + Income_Category_Less than $40K,3,0.06586353312925841,667,0.010494752623688156
+Utilization_Level_High + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.06586353312925841,667,0.13793103448275862
+Education_Level_Graduate + Age_Group_Middle + Utilization_Level_Medium,3,0.06586353312925841,667,0.09295352323838081
+Education_Level_Uneducated + Age_Group_Middle + Inactivity_Level_Moderate,3,0.06586353312925841,667,0.20239880059970014
+Education_Level_High School + Inactivity_Level_Moderate + Marital_Status_Married,3,0.0657647872025279,666,0.17267267267267267
+Education_Level_High School + Transaction_Amount_Level_Medium,2,0.0657647872025279,666,0.07807807807807808
+Education_Level_Graduate + Utilization_Level_Low + Age_Group_Middle,3,0.06566604127579738,665,0.3007518796992481
+Transaction_Count_Level_Medium + Education_Level_High School,2,0.06556729534906686,664,0.08283132530120482
+Income_Category_$60K - $80K + Marital_Status_Married,2,0.06527105756887529,661,0.13010590015128592
+Transaction_Count_Level_Medium + Utilization_Level_High + Income_Category_Less than $40K,3,0.06497481978868372,658,0.02127659574468085
+Utilization_Level_High + Income_Category_Less than $40K + Transaction_Amount_Level_Medium,3,0.06497481978868372,658,0.06231003039513678
+Education_Level_High School + Transaction_Count_Level_High,2,0.0648760738619532,657,0.0136986301369863
+Utilization_Level_High + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.06477732793522267,656,0.001524390243902439
+Education_Level_Uneducated + Marital_Status_Married,2,0.06477732793522267,656,0.14176829268292682
+Education_Level_Graduate + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.06457983608176163,654,0.05963302752293578
+Utilization_Level_Low + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.0644810901550311,653,0.05206738131699847
+Transaction_Count_Level_Low + Inactivity_Level_Few,2,0.06438234422830058,652,0.1334355828220859
+Utilization_Level_Low + Education_Level_High School,2,0.06408610644810901,649,0.3081664098613251
+Income_Category_$60K - $80K + Age_Group_Middle + Inactivity_Level_Moderate,3,0.06398736052137849,648,0.15123456790123457
+Education_Level_College + Age_Group_Middle,2,0.06369112274118692,645,0.15348837209302327
+Transaction_Count_Level_Low + Age_Group_Middle + Utilization_Level_Medium,3,0.06369112274118692,645,0.2589147286821705
+Education_Level_Graduate + Utilization_Level_High + Age_Group_Middle,3,0.06329613903426484,641,0.093603744149766
+Age_Group_Young + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.06280240940061223,636,0.33647798742138363
+Education_Level_Graduate + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.0627036634738817,635,0.07874015748031496
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.06250617162042066,633,0.2812006319115324
+Age_Group_Old + Marital_Status_Married,2,0.062407425693690136,632,0.12183544303797468
+Transaction_Amount_Level_Low + Age_Group_Middle + Utilization_Level_Medium,3,0.062407425693690136,632,0.2231012658227848
+Education_Level_Graduate + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.06220993384022909,630,0.0031746031746031746
+Education_Level_Graduate + Transaction_Count_Level_Low + Marital_Status_Married,3,0.06171620420657648,625,0.2688
+Income_Category_$40K - $60K + Utilization_Level_Medium,2,0.06171620420657648,625,0.0864
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.06161745827984596,624,0.21314102564102563
+Education_Level_Graduate + Transaction_Count_Level_Low + Age_Group_Middle,3,0.06161745827984596,624,0.42467948717948717
+Age_Group_Young + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.06141996642638491,622,0.18810289389067525
+Education_Level_Unknown + Marital_Status_Single,2,0.06132122049965439,621,0.1819645732689211
+Utilization_Level_Low + Transaction_Count_Level_Low + Marital_Status_Married,3,0.06122247457292387,620,0.5758064516129032
+Education_Level_Graduate + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.06102498271946282,618,0.23786407766990292
+Income_Category_Less than $40K + Transaction_Count_Level_Low + Marital_Status_Married,3,0.06053125308581021,613,0.36541598694942906
+Income_Category_$40K - $60K + Transaction_Count_Level_High,2,0.06043250715907969,612,0.008169934640522876
+Inactivity_Level_Moderate + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.06043250715907969,612,0.0
+Transaction_Amount_Level_High + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.06033376123234917,611,0.006546644844517185
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low,2,0.060235015305618644,610,0.30327868852459017
+Income_Category_$80K - $120K + Transaction_Count_Level_Low,2,0.06013626937888812,609,0.28078817733990147
+Income_Category_$80K - $120K + Utilization_Level_Medium,2,0.06013626937888812,609,0.09195402298850575
+Income_Category_Less than $40K + Transaction_Count_Level_Low + Age_Group_Middle,3,0.06013626937888812,609,0.5681444991789819
+Income_Category_$40K - $60K + Transaction_Amount_Level_High,2,0.05984003159869655,606,0.07920792079207921
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Education_Level_High School,3,0.05984003159869655,606,0.3102310231023102
+Age_Group_Young + Utilization_Level_High + Inactivity_Level_Moderate,3,0.05964253974523551,604,0.09437086092715231
+Income_Category_$40K - $60K + Transaction_Count_Level_Low,2,0.059543793818504984,603,0.3548922056384743
+Transaction_Amount_Level_Low + Age_Group_Middle + Marital_Status_Single,3,0.059346301965043945,601,0.46755407653910147
+Income_Category_$60K - $80K + Utilization_Level_Medium,2,0.059346301965043945,601,0.07986688851913477
+Age_Group_Old + Transaction_Count_Level_Low,2,0.05924755603831342,600,0.29
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Inactivity_Level_Few,3,0.0591488101115829,599,0.12687813021702837
+Age_Group_Middle + Education_Level_High School + Marital_Status_Married,3,0.05885257233139133,596,0.16275167785234898
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low,2,0.05875382640466081,595,0.23529411764705882
+Age_Group_Old + Transaction_Amount_Level_Low,2,0.05875382640466081,595,0.24201680672268908
+Age_Group_Middle + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.058358842697738715,591,0.0
+Education_Level_Uneducated + Marital_Status_Single,2,0.05786511306408611,586,0.17406143344709898
+Education_Level_Graduate + Transaction_Amount_Level_Low + Age_Group_Middle,3,0.05786511306408611,586,0.39078498293515357
+Age_Group_Young + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.057173891576972447,579,0.1001727115716753
+Age_Group_Young + Inactivity_Level_Few,2,0.05707514565024193,578,0.08131487889273356
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Marital_Status_Married,3,0.05697639972351141,577,0.31022530329289427
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium,2,0.05677890787005036,575,0.09043478260869565
+Income_Category_$40K - $60K + Transaction_Amount_Level_Medium,2,0.05668016194331984,574,0.06620209059233449
+Age_Group_Old + Marital_Status_Single,2,0.055988940456206185,567,0.18518518518518517
+Utilization_Level_Low + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.05579144860274514,565,0.5380530973451327
+Income_Category_$80K - $120K + Marital_Status_Single,2,0.05539646489582305,561,0.16399286987522282
+Income_Category_Less than $40K + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.05539646489582305,561,0.1319073083778966
+Income_Category_$40K - $60K + Inactivity_Level_Moderate + Marital_Status_Married,3,0.05539646489582305,561,0.18181818181818182
+Education_Level_Graduate + Utilization_Level_High + Income_Category_Less than $40K,3,0.055297718969092524,560,0.1
+Age_Group_Old + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.055001481188900955,557,0.25314183123877915
+Income_Category_Less than $40K + Education_Level_Unknown,2,0.05490273526217043,556,0.17266187050359713
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Marital_Status_Single,3,0.05490273526217043,556,0.0683453237410072
+Utilization_Level_Low + Age_Group_Young + Inactivity_Level_Moderate,3,0.054803989335439916,555,0.3171171171171171
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Marital_Status_Married,3,0.054803989335439916,555,0.05405405405405406
+Income_Category_$40K - $60K + Education_Level_Graduate,2,0.05460649748197887,553,0.13924050632911392
+Education_Level_Unknown + Transaction_Amount_Level_Medium,2,0.05460649748197887,553,0.07233273056057866
+Utilization_Level_Low + Income_Category_Less than $40K + Age_Group_Middle,3,0.05460649748197887,553,0.39783001808318263
+Transaction_Amount_Level_High + Age_Group_Middle + Inactivity_Level_Few,3,0.05450775155524835,552,0.007246376811594203
+Age_Group_Middle + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.054409005628517824,551,0.0
+Age_Group_Young + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.054409005628517824,551,0.09800362976406533
+Inactivity_Level_Moderate + Marital_Status_Single + Education_Level_High School,3,0.05421151377505678,549,0.15846994535519127
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Marital_Status_Single,3,0.054112767848326256,548,0.07116788321167883
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.05391527599486521,546,0.32967032967032966
+Income_Category_Less than $40K + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.053717784141404164,544,0.08455882352941177
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.05361903821467365,543,0.2523020257826888
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Age_Group_Middle,3,0.053224054507751556,539,0.5102040816326531
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low,2,0.05292781672755999,536,0.22761194029850745
+Income_Category_$60K - $80K + Transaction_Count_Level_Low,2,0.05292781672755999,536,0.27611940298507465
+Age_Group_Young + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.05292781672755999,536,0.09701492537313433
+Income_Category_$60K - $80K + Marital_Status_Single,2,0.05243408709390738,531,0.14689265536723164
+Education_Level_Graduate + Age_Group_Young + Inactivity_Level_Moderate,3,0.05243408709390738,531,0.18267419962335216
+Income_Category_Less than $40K + Marital_Status_Single + Transaction_Count_Level_High,3,0.05223659524044633,529,0.013232514177693762
+Marital_Status_Unknown + Age_Group_Middle,2,0.05223659524044633,529,0.16257088846880907
+Transaction_Count_Level_Medium + Education_Level_Unknown,2,0.05223659524044633,529,0.09262759924385633
+Education_Level_Graduate + Income_Category_Less than $40K + Marital_Status_Married,3,0.05213784931371581,528,0.16856060606060605
+Income_Category_$80K - $120K + Inactivity_Level_Moderate + Marital_Status_Married,3,0.05203910338698529,527,0.16888045540796964
+Utilization_Level_High + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.05184161153352424,525,0.049523809523809526
+Marital_Status_Divorced + Inactivity_Level_Moderate,2,0.051644119680063195,523,0.1835564053537285
+Income_Category_$120K + + Inactivity_Level_Moderate,2,0.051644119680063195,523,0.18546845124282982
+Age_Group_Young + Transaction_Count_Level_Low + Marital_Status_Married,3,0.051644119680063195,523,0.1988527724665392
+Utilization_Level_Low + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.051644119680063195,523,0.15678776290630975
+Transaction_Count_Level_Medium + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.05154537375333267,522,0.0019157088122605363
+Education_Level_Uneducated + Income_Category_Less than $40K,2,0.05154537375333267,522,0.1532567049808429
+Income_Category_Less than $40K + Transaction_Count_Level_High + Marital_Status_Married,3,0.05154537375333267,522,0.007662835249042145
+Income_Category_$120K + + Age_Group_Middle,2,0.05144662782660215,521,0.16506717850287908
+Education_Level_Graduate + Utilization_Level_High + Marital_Status_Married,3,0.05144662782660215,521,0.08061420345489444
+Income_Category_$80K - $120K + Age_Group_Middle + Marital_Status_Married,3,0.051347881899871634,520,0.14423076923076922
+Marital_Status_Unknown + Inactivity_Level_Moderate,2,0.051347881899871634,520,0.2076923076923077
+Income_Category_$60K - $80K + Utilization_Level_Low,2,0.051051644119680065,517,0.24758220502901354
+Utilization_Level_High + Transaction_Count_Level_Low + Age_Group_Middle,3,0.05095289819294954,516,0.3372093023255814
+Age_Group_Middle + Inactivity_Level_Few + Utilization_Level_Medium,3,0.05095289819294954,516,0.01937984496124031
+Education_Level_Post-Graduate,1,0.05095289819294954,516,0.17829457364341086
+Utilization_Level_Low + Education_Level_Unknown,2,0.05085415226621902,515,0.3067961165048544
+Utilization_Level_High + Education_Level_Unknown,2,0.050755406339488496,514,0.08754863813229571
+Income_Category_Less than $40K + Age_Group_Middle + Utilization_Level_Medium,3,0.05055791448602745,512,0.125
+Utilization_Level_High + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.05045916855929693,511,0.01761252446183953
+Education_Level_Graduate + Marital_Status_Married + Utilization_Level_Medium,3,0.05026167670583588,509,0.09430255402750491
+Transaction_Count_Level_Low + Education_Level_Unknown,2,0.050162930779105365,508,0.38779527559055116
+Age_Group_Old + Income_Category_Less than $40K,2,0.050162930779105365,508,0.15551181102362205
+Marital_Status_Divorced + Age_Group_Middle,2,0.05006418485237484,507,0.16173570019723865
+Age_Group_Young + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.05006418485237484,507,0.1755424063116371
+Utilization_Level_Low + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.05006418485237484,507,0.126232741617357
+Age_Group_Middle + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.04996543892564432,506,0.0
+Transaction_Count_Level_Medium + Age_Group_Middle + Inactivity_Level_Few,3,0.04996543892564432,506,0.007905138339920948
+Income_Category_Less than $40K + Utilization_Level_High + Transaction_Count_Level_Low,3,0.049866692998913796,505,0.300990099009901
+Utilization_Level_High + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.04976794707218327,504,0.025793650793650792
+Education_Level_Uneducated + Utilization_Level_Medium,2,0.04976794707218327,504,0.08928571428571429
+Education_Level_Uneducated + Transaction_Amount_Level_High,2,0.04976794707218327,504,0.08531746031746032
+Education_Level_Uneducated + Utilization_Level_Low,2,0.04966920114545275,503,0.28429423459244535
+Transaction_Amount_Level_High + Utilization_Level_High + Marital_Status_Married,3,0.04957045521872223,502,0.01593625498007968
+Education_Level_Uneducated + Transaction_Amount_Level_Medium,2,0.04957045521872223,502,0.08167330677290836
+Education_Level_Uneducated + Transaction_Count_Level_Medium,2,0.049471709291991704,501,0.059880239520958084
+Utilization_Level_Medium + Transaction_Amount_Level_High + Marital_Status_Married,3,0.04937296336526118,500,0.068
+Education_Level_Uneducated + Transaction_Count_Level_Low,2,0.04937296336526118,500,0.382
+Income_Category_$80K - $120K + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.04927421743853066,499,0.2665330661322645
+Transaction_Amount_Level_High + Age_Group_Young + Transaction_Count_Level_High,3,0.04907672558506961,497,0.03621730382293763
+Income_Category_Less than $40K + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.048977979658339096,496,0.10887096774193548
+Age_Group_Young + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.04887923373160857,495,0.030303030303030304
+Income_Category_$40K - $60K + Age_Group_Middle + Marital_Status_Married,3,0.04887923373160857,495,0.1797979797979798
+Utilization_Level_High + Income_Category_Less than $40K + Transaction_Amount_Level_Low,3,0.04878048780487805,494,0.2408906882591093
+Marital_Status_Married + Income_Category_Unknown,2,0.04868174187814753,493,0.15821501014198783
+Transaction_Count_Level_Low + Education_Level_High School + Inactivity_Level_Moderate,3,0.04868174187814753,493,0.39553752535496955
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Marital_Status_Married,3,0.04868174187814753,493,0.07099391480730223
+Utilization_Level_High + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.048582995951417005,492,0.06504065040650407
+Age_Group_Young + Education_Level_High School,2,0.048582995951417005,492,0.12804878048780488
+Utilization_Level_Medium + Transaction_Count_Level_High + Marital_Status_Married,3,0.04848425002468648,491,0.012219959266802444
+Income_Category_$80K - $120K + Transaction_Count_Level_Medium,2,0.04838550409795596,490,0.11428571428571428
+Education_Level_Unknown + Utilization_Level_Medium,2,0.04838550409795596,490,0.10816326530612246
+Age_Group_Middle + Inactivity_Level_Many,2,0.04818801224449491,488,0.2192622950819672
+Transaction_Amount_Level_Low + Education_Level_Unknown,2,0.04818801224449491,488,0.33401639344262296
+Transaction_Amount_Level_High + Age_Group_Young + Inactivity_Level_Moderate,3,0.04808926631776439,487,0.12320328542094455
+Utilization_Level_High + Transaction_Count_Level_High + Marital_Status_Married,3,0.04799052039103387,486,0.00205761316872428
+Education_Level_Uneducated + Transaction_Count_Level_High,2,0.04799052039103387,486,0.03292181069958848
+Age_Group_Old + Utilization_Level_High,2,0.04789177446430335,485,0.06597938144329897
+Income_Category_$80K - $120K + Transaction_Amount_Level_Medium,2,0.047694282610842305,483,0.049689440993788817
+Transaction_Count_Level_Medium + Marital_Status_Single + Utilization_Level_Medium,3,0.047694282610842305,483,0.053830227743271224
+Income_Category_$40K - $60K + Marital_Status_Single + Inactivity_Level_Moderate,3,0.04759553668411178,482,0.17634854771784234
+Education_Level_Unknown + Transaction_Count_Level_High,2,0.04759553668411178,482,0.02074688796680498
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.04759553668411178,482,0.24896265560165975
+Utilization_Level_High + Inactivity_Level_Moderate + Education_Level_High School,3,0.04749679075738126,481,0.08108108108108109
+Education_Level_Uneducated + Transaction_Amount_Level_Low,2,0.04749679075738126,481,0.3180873180873181
+Education_Level_High School + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.04749679075738126,481,0.0893970893970894
+Education_Level_Uneducated + Utilization_Level_High,2,0.047398044830650736,480,0.10208333333333333
+Age_Group_Middle + Inactivity_Level_Few + Marital_Status_Single,3,0.04729929890392021,479,0.04175365344467641
+Income_Category_$40K - $60K + Utilization_Level_High + Inactivity_Level_Moderate,3,0.04720055297718969,478,0.08368200836820083
+Income_Category_$80K - $120K + Education_Level_Graduate,2,0.04720055297718969,478,0.1401673640167364
+Transaction_Amount_Level_High + Education_Level_Unknown,2,0.04720055297718969,478,0.1108786610878661
+Transaction_Amount_Level_Low + Inactivity_Level_Moderate + Education_Level_High School,3,0.04720055297718969,478,0.3305439330543933
+Income_Category_$80K - $120K + Utilization_Level_Low + Age_Group_Middle,3,0.04710180705045917,477,0.23689727463312368
+Marital_Status_Single + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.047003061123728644,476,0.0273109243697479
+Utilization_Level_High + Marital_Status_Single + Transaction_Count_Level_High,3,0.04690431519699812,475,0.0
+Transaction_Amount_Level_High + Education_Level_High School + Transaction_Count_Level_High,3,0.0468055692702676,474,0.0189873417721519
+Utilization_Level_Medium + Marital_Status_Single + Transaction_Count_Level_High,3,0.04660807741680656,472,0.012711864406779662
+Utilization_Level_High + Age_Group_Middle + Transaction_Amount_Level_Low,3,0.04660807741680656,472,0.2817796610169492
+Education_Level_College + Age_Group_Middle + Inactivity_Level_Moderate,3,0.04641058556334551,470,0.19148936170212766
+Income_Category_Less than $40K + Education_Level_High School + Inactivity_Level_Moderate,3,0.04641058556334551,470,0.17872340425531916
+Utilization_Level_Low + Education_Level_High School + Inactivity_Level_Moderate,3,0.04641058556334551,470,0.3446808510638298
+Education_Level_College + Marital_Status_Married,2,0.046114347783153944,467,0.15203426124197003
+Transaction_Count_Level_Medium + Education_Level_High School + Inactivity_Level_Moderate,3,0.046114347783153944,467,0.1006423982869379
+Transaction_Amount_Level_High + Education_Level_Graduate + Marital_Status_Married,3,0.04601560185642342,466,0.07939914163090128
+Transaction_Amount_Level_High + Utilization_Level_High + Marital_Status_Single,3,0.045818110002962376,464,0.015086206896551725
+Education_Level_Unknown + Inactivity_Level_Moderate + Marital_Status_Married,3,0.045818110002962376,464,0.19827586206896552
+Transaction_Amount_Level_High + Utilization_Level_Low + Marital_Status_Single,3,0.04571936407623185,463,0.2224622030237581
+Age_Group_Old + Utilization_Level_Medium,2,0.04562061814950133,462,0.11255411255411256
+Income_Category_$60K - $80K + Inactivity_Level_Moderate + Marital_Status_Married,3,0.04562061814950133,462,0.15800865800865802
+Income_Category_$40K - $60K + Utilization_Level_Low,2,0.045521872222770814,461,0.3600867678958785
+Education_Level_High School + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.04542312629604029,460,0.1
+Transaction_Amount_Level_High + Age_Group_Middle + Education_Level_High School,3,0.04532438036930977,459,0.08061002178649238
+Transaction_Amount_Level_High + Marital_Status_Single + Utilization_Level_Medium,3,0.04532438036930977,459,0.06971677559912855
+Education_Level_High School + Inactivity_Level_Few,2,0.04512688851584872,457,0.0525164113785558
+Income_Category_$80K - $120K + Transaction_Amount_Level_High,2,0.04512688851584872,457,0.17067833698030635
+Income_Category_$40K - $60K + Age_Group_Young,2,0.04512688851584872,457,0.13129102844638948
+Utilization_Level_Low + Transaction_Count_Level_Low + Marital_Status_Single,3,0.0450281425891182,456,0.6666666666666666
+Transaction_Amount_Level_High + Utilization_Level_Low + Marital_Status_Married,3,0.044929396662387676,455,0.16703296703296702
+Age_Group_Middle + Education_Level_Unknown + Marital_Status_Married,3,0.044929396662387676,455,0.17802197802197803
+Education_Level_Uneducated + Inactivity_Level_Moderate + Marital_Status_Married,3,0.044929396662387676,455,0.17142857142857143
+Utilization_Level_High + Age_Group_Middle + Inactivity_Level_Few,3,0.044929396662387676,455,0.015384615384615385
+Income_Category_$60K - $80K + Transaction_Amount_Level_Medium,2,0.044929396662387676,455,0.04835164835164835
+Education_Level_Graduate + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.04483065073565715,454,0.07048458149779736
+Age_Group_Middle + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.04483065073565715,454,0.23348017621145375
+Income_Category_$60K - $80K + Transaction_Count_Level_Medium,2,0.04473190480892663,453,0.06181015452538632
+Transaction_Amount_Level_High + Education_Level_High School + Inactivity_Level_Moderate,3,0.04463315888219611,452,0.10176991150442478
+Education_Level_Doctorate,1,0.044534412955465584,451,0.2106430155210643
+Age_Group_Middle + Education_Level_High School + Marital_Status_Single,3,0.044534412955465584,451,0.12638580931263857
+Education_Level_High School + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.044534412955465584,451,0.011086474501108648
+Age_Group_Young + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.044534412955465584,451,0.019955654101995565
+Age_Group_Young + Income_Category_Less than $40K + Utilization_Level_High,3,0.044336921102004545,449,0.0779510022271715
+Education_Level_Graduate + Utilization_Level_Low + Marital_Status_Married,3,0.044336921102004545,449,0.2739420935412027
+Age_Group_Young + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.04423817517527402,448,0.078125
+Education_Level_Graduate + Income_Category_Less than $40K + Marital_Status_Single,3,0.0441394292485435,447,0.20134228187919462
+Age_Group_Old + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.0441394292485435,447,0.14093959731543623
+Education_Level_Graduate + Transaction_Count_Level_High + Marital_Status_Married,3,0.0441394292485435,447,0.011185682326621925
+Age_Group_Middle + Education_Level_High School + Transaction_Count_Level_High,3,0.0441394292485435,447,0.011185682326621925
+Education_Level_Graduate + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.044040683321812976,446,0.06278026905829596
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Education_Level_Unknown,3,0.04394193739508245,445,0.35280898876404493
+Utilization_Level_Low + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.04384319146835193,444,0.14189189189189189
+Income_Category_Less than $40K + Age_Group_Middle + Inactivity_Level_Few,3,0.04384319146835193,444,0.038288288288288286
+Marital_Status_Single + Income_Category_Unknown,2,0.04384319146835193,444,0.17567567567567569
+Income_Category_$80K - $120K + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.043645699614890884,442,0.10180995475113122
+Education_Level_Uneducated + Marital_Status_Single + Inactivity_Level_Moderate,3,0.04354695368816036,441,0.19501133786848074
+Age_Group_Old + Inactivity_Level_Moderate + Marital_Status_Married,3,0.04344820776142984,440,0.10909090909090909
+Income_Category_$80K - $120K + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.043349461834699315,439,0.3234624145785877
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Transaction_Count_Level_High,3,0.043349461834699315,439,0.011389521640091117
+Income_Category_$80K - $120K + Age_Group_Middle + Utilization_Level_Medium,3,0.0432507159079688,438,0.10273972602739725
+Income_Category_$80K - $120K + Transaction_Count_Level_High,2,0.043053224054507754,436,0.034403669724770644
+Income_Category_$40K - $60K + Inactivity_Level_Few,2,0.043053224054507754,436,0.04357798165137615
+Age_Group_Middle + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.042756986274316185,433,0.06928406466512702
+Education_Level_Graduate + Age_Group_Middle + Inactivity_Level_Few,3,0.04265824034758566,432,0.03009259259259259
+Utilization_Level_Medium + Income_Category_Unknown,2,0.04265824034758566,432,0.09027777777777778
+Education_Level_Unknown + Inactivity_Level_Moderate + Marital_Status_Single,3,0.04265824034758566,432,0.2175925925925926
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.04255949442085514,431,0.33642691415313225
+Utilization_Level_Low + Marital_Status_Single + Transaction_Amount_Level_Low,3,0.04255949442085514,431,0.5638051044083526
+Education_Level_Uneducated + Transaction_Amount_Level_Low + Transaction_Count_Level_Low,3,0.04255949442085514,431,0.3480278422273782
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.04236200256739409,429,0.2634032634032634
+Transaction_Amount_Level_High + Marital_Status_Single + Education_Level_Graduate,3,0.04226325664066357,428,0.09345794392523364
+Income_Category_$40K - $60K + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.04206576478720253,426,0.39906103286384975
+Education_Level_Graduate + Utilization_Level_Low + Marital_Status_Single,3,0.04196701886047201,425,0.3129411764705882
+Utilization_Level_Low + Transaction_Count_Level_High + Marital_Status_Married,3,0.04196701886047201,425,0.03058823529411765
+Age_Group_Old + Transaction_Count_Level_Low + Marital_Status_Married,3,0.04196701886047201,425,0.15764705882352942
+Income_Category_$60K - $80K + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.041868272933741485,424,0.08490566037735849
+Utilization_Level_Low + Marital_Status_Single + Transaction_Count_Level_High,3,0.04167078108028044,422,0.05687203791469194
+Income_Category_$60K - $80K + Education_Level_Graduate,2,0.04167078108028044,422,0.12322274881516587
+Utilization_Level_Low + Age_Group_Middle + Education_Level_High School,3,0.041572035153549916,421,0.30403800475059384
+Income_Category_$40K - $60K + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.041572035153549916,421,0.011876484560570071
+Education_Level_Uneducated + Age_Group_Middle + Marital_Status_Married,3,0.04147328922681939,420,0.1523809523809524
+Transaction_Count_Level_Low + Education_Level_High School + Marital_Status_Married,3,0.04137454330008887,419,0.26968973747016706
+Utilization_Level_Low + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.04137454330008887,419,0.17422434367541767
+Income_Category_$60K - $80K + Age_Group_Middle + Marital_Status_Married,3,0.04127579737335835,418,0.13157894736842105
+Utilization_Level_Low + Age_Group_Middle + Inactivity_Level_Few,3,0.041177051446627824,417,0.06474820143884892
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Inactivity_Level_Moderate,3,0.040979559593166785,415,0.10120481927710843
+Age_Group_Young + Utilization_Level_High + Marital_Status_Married,3,0.04088081366643626,414,0.06521739130434782
+Education_Level_Graduate + Marital_Status_Single + Transaction_Count_Level_High,3,0.04088081366643626,414,0.016908212560386472
+Income_Category_$60K - $80K + Transaction_Count_Level_High,2,0.04078206773970574,413,0.031476997578692496
+Income_Category_$40K - $60K + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.04078206773970574,413,0.10411622276029056
+Utilization_Level_Low + Income_Category_Unknown,2,0.04078206773970574,413,0.2784503631961259
+Transaction_Count_Level_Medium + Age_Group_Middle + Education_Level_High School,3,0.04058457588624469,411,0.07785888077858881
+Income_Category_$60K - $80K + Transaction_Amount_Level_High,2,0.04058457588624469,411,0.10948905109489052
+Utilization_Level_High + Age_Group_Middle + Education_Level_High School,3,0.04058457588624469,411,0.06569343065693431
+Age_Group_Old + Education_Level_Graduate,2,0.04058457588624469,411,0.1362530413625304
+Transaction_Amount_Level_Low + Education_Level_High School + Marital_Status_Married,3,0.04048582995951417,410,0.22195121951219512
+Utilization_Level_Low + Income_Category_Less than $40K + Marital_Status_Married,3,0.04038708403278365,409,0.38141809290953543
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Education_Level_Graduate,3,0.040288338106053125,408,0.06372549019607843
+Education_Level_Graduate + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.0401895921793226,407,0.09828009828009827
+Income_Category_Unknown + Transaction_Amount_Level_Medium,2,0.0401895921793226,407,0.09336609336609336
+Income_Category_Less than $40K + Age_Group_Middle + Education_Level_High School,3,0.0401895921793226,407,0.14742014742014742
+Income_Category_$40K - $60K + Age_Group_Middle + Transaction_Count_Level_High,3,0.0401895921793226,407,0.009828009828009828
+Income_Category_$60K - $80K + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.04009084625259208,406,0.3078817733990148
+Age_Group_Middle + Education_Level_High School + Utilization_Level_Medium,3,0.04009084625259208,406,0.0812807881773399
+Transaction_Count_Level_Medium + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.04009084625259208,406,0.012315270935960592
+Transaction_Amount_Level_Low + Inactivity_Level_Few + Marital_Status_Married,3,0.04009084625259208,406,0.08374384236453201
+Income_Category_$80K - $120K + Marital_Status_Single + Inactivity_Level_Moderate,3,0.039992100325861556,405,0.18765432098765433
+Marital_Status_Married + Inactivity_Level_Few + Utilization_Level_Medium,3,0.03989335439913103,404,0.034653465346534656
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.03979460847240052,403,0.25806451612903225
+Age_Group_Young + Income_Category_Less than $40K + Marital_Status_Single,3,0.039695862545669994,402,0.16666666666666666
+Age_Group_Old + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.03949837069220895,400,0.2075
+Utilization_Level_High + Income_Category_Less than $40K + Inactivity_Level_Few,3,0.03949837069220895,400,0.025
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Age_Group_Middle,3,0.03949837069220895,400,0.0825
+Utilization_Level_Medium + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.039399624765478425,399,0.06516290726817042
+Marital_Status_Single + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.039399624765478425,399,0.0
+Age_Group_Old + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.0393008788387479,398,0.24874371859296482
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.0393008788387479,398,0.23366834170854273
+Age_Group_Young + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.03920213291201738,397,0.08312342569269521
+Education_Level_Graduate + Marital_Status_Single + Utilization_Level_Medium,3,0.03920213291201738,397,0.09319899244332494
+Income_Category_$80K - $120K + Transaction_Count_Level_Low + Age_Group_Middle,3,0.03900464105855633,395,0.3240506329113924
+Education_Level_Graduate + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.03900464105855633,395,0.07341772151898734
+Transaction_Count_Level_Low + Inactivity_Level_Few + Marital_Status_Married,3,0.03890589513182581,394,0.09137055837563451
+Income_Category_$40K - $60K + Utilization_Level_High + Age_Group_Middle,3,0.03890589513182581,394,0.06852791878172589
+Income_Category_$40K - $60K + Age_Group_Middle + Marital_Status_Single,3,0.03890589513182581,394,0.1649746192893401
+Transaction_Count_Level_Medium + Income_Category_Unknown,2,0.03880714920509529,393,0.06615776081424936
+Utilization_Level_Low + Income_Category_Less than $40K + Marital_Status_Single,3,0.038708403278364764,392,0.3647959183673469
+Age_Group_Middle + Education_Level_Unknown + Transaction_Amount_Level_Medium,3,0.038708403278364764,392,0.07142857142857142
+Utilization_Level_High + Inactivity_Level_Few + Marital_Status_Married,3,0.0384121654981732,389,0.010282776349614395
+Income_Category_$60K - $80K + Marital_Status_Single + Inactivity_Level_Moderate,3,0.03831341957144268,388,0.16237113402061856
+Income_Category_$40K - $60K + Education_Level_Graduate + Inactivity_Level_Moderate,3,0.03831341957144268,388,0.16752577319587628
+Transaction_Count_Level_Low + Transaction_Amount_Level_Medium,2,0.03831341957144268,388,0.5902061855670103
+Income_Category_Less than $40K + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.038214673644712156,387,0.20155038759689922
+Transaction_Amount_Level_High + Inactivity_Level_Few + Marital_Status_Married,3,0.038214673644712156,387,0.028423772609819122
+Education_Level_College + Marital_Status_Single,2,0.03811592771798163,386,0.16321243523316062
+Education_Level_Graduate + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.03801718179125111,385,0.007792207792207792
+Transaction_Amount_Level_High + Income_Category_Unknown,2,0.03801718179125111,385,0.05454545454545454
+Income_Category_$60K - $80K + Age_Group_Middle + Utilization_Level_Medium,3,0.03791843586452059,384,0.0625
+Utilization_Level_Low + Income_Category_$120K +,2,0.03791843586452059,384,0.2421875
+Age_Group_Old + Utilization_Level_Low,2,0.03791843586452059,384,0.3307291666666667
+Education_Level_Graduate + Transaction_Count_Level_High + Utilization_Level_Medium,3,0.037819689937790064,383,0.013054830287206266
+Education_Level_Graduate + Utilization_Level_Low + Transaction_Count_Level_Low,3,0.03772094401105954,382,0.6413612565445026
+Income_Category_$40K - $60K + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.03772094401105954,382,0.08900523560209424
+Income_Category_$60K - $80K + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.03762219808432902,381,0.28083989501312334
+Age_Group_Middle + Education_Level_Unknown + Marital_Status_Single,3,0.03762219808432902,381,0.1942257217847769
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.03762219808432902,381,0.12073490813648294
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.0375234521575985,380,0.23421052631578948
+Transaction_Count_Level_Low + Age_Group_Middle + Education_Level_High School,3,0.0375234521575985,380,0.3973684210526316
+Transaction_Count_Level_Medium + Transaction_Amount_Level_High + Income_Category_Less than $40K,3,0.0375234521575985,380,0.14736842105263157
+Age_Group_Old + Transaction_Count_Level_Medium,2,0.0375234521575985,380,0.07894736842105263
+Utilization_Level_Medium + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.0375234521575985,380,0.05
+Transaction_Count_Level_High + Income_Category_Unknown,2,0.03742470623086798,379,0.002638522427440633
+Income_Category_Less than $40K + Education_Level_Graduate + Transaction_Count_Level_Low,3,0.03742470623086798,379,0.46965699208443273
+Utilization_Level_Low + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.03732596030413746,378,0.35185185185185186
+Education_Level_Graduate + Income_Category_Less than $40K + Transaction_Amount_Level_Medium,3,0.03712846845067641,376,0.10106382978723404
+Education_Level_Graduate + Utilization_Level_High + Marital_Status_Single,3,0.03702972252394589,375,0.08533333333333333
+Transaction_Count_Level_Medium + Education_Level_Graduate + Income_Category_Less than $40K,3,0.03702972252394589,375,0.07733333333333334
+Age_Group_Old + Marital_Status_Single + Inactivity_Level_Moderate,3,0.036930976597215365,374,0.15508021390374332
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low + Age_Group_Middle,3,0.036930976597215365,374,0.2807486631016043
+Transaction_Amount_Level_High + Age_Group_Old,2,0.036930976597215365,374,0.09358288770053476
+Marital_Status_Unknown + Age_Group_Middle + Inactivity_Level_Moderate,3,0.036930976597215365,374,0.20588235294117646
+Transaction_Amount_Level_High + Education_Level_Graduate + Utilization_Level_Medium,3,0.036930976597215365,374,0.06417112299465241
+Education_Level_Uneducated + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.03673348474375432,372,0.1774193548387097
+Education_Level_Uneducated + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.036634738817023796,371,0.31805929919137466
+Income_Category_$40K - $60K + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.036634738817023796,371,0.0646900269541779
+Income_Category_$120K + + Age_Group_Middle + Inactivity_Level_Moderate,3,0.036634738817023796,371,0.18598382749326145
+Education_Level_Uneducated + Transaction_Count_Level_High + Transaction_Amount_Level_High,3,0.03653599289029327,370,0.043243243243243246
+Education_Level_Unknown + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.03653599289029327,370,0.0891891891891892
+Utilization_Level_Low + Age_Group_Young + Marital_Status_Single,3,0.03643724696356275,369,0.24932249322493225
+Education_Level_Unknown + Inactivity_Level_Few,2,0.036338501036832234,368,0.0625
+Education_Level_Uneducated + Transaction_Count_Level_Low + Inactivity_Level_Moderate,3,0.036338501036832234,368,0.4266304347826087
+Income_Category_$40K - $60K + Age_Group_Middle + Utilization_Level_Medium,3,0.036338501036832234,368,0.09510869565217392
+Income_Category_$80K - $120K + Age_Group_Middle + Marital_Status_Single,3,0.03623975511010171,367,0.1771117166212534
+Age_Group_Young + Income_Category_Less than $40K + Marital_Status_Married,3,0.03614100918337119,366,0.13387978142076504
+Education_Level_Graduate + Utilization_Level_Low + Transaction_Amount_Level_Low,3,0.03614100918337119,366,0.5655737704918032
+Transaction_Count_Level_High + Inactivity_Level_Few + Marital_Status_Married,3,0.036042263256640665,365,0.0027397260273972603
+Age_Group_Middle + Transaction_Count_Level_Medium + Education_Level_Unknown,3,0.03594351732991014,364,0.08791208791208792
+Income_Category_Less than $40K + Inactivity_Level_Few + Marital_Status_Married,3,0.03584477140317962,363,0.03581267217630854
+Age_Group_Old + Transaction_Amount_Level_Medium,2,0.035746025476449096,362,0.08839779005524862
+Education_Level_Post-Graduate + Inactivity_Level_Moderate,2,0.03564727954971857,361,0.19113573407202217
+Transaction_Amount_Level_High + Education_Level_College,2,0.03554853362298805,360,0.06944444444444445
+Utilization_Level_High + Income_Category_Less than $40K + Education_Level_High School,3,0.03554853362298805,360,0.06944444444444445
+Age_Group_Young + Utilization_Level_High + Marital_Status_Single,3,0.03554853362298805,360,0.08888888888888889
+Transaction_Count_Level_Medium + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.03554853362298805,360,0.12222222222222222
+Transaction_Count_Level_Medium + Education_Level_Unknown + Transaction_Amount_Level_Medium,3,0.03544978769625753,359,0.011142061281337047
+Education_Level_Uneducated + Transaction_Amount_Level_Low + Inactivity_Level_Moderate,3,0.03544978769625753,359,0.3593314763231198
+Marital_Status_Divorced + Age_Group_Middle + Inactivity_Level_Moderate,3,0.035351041769527004,358,0.18994413407821228
+Education_Level_Graduate + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.035351041769527004,358,0.17039106145251395
+Education_Level_Uneducated + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.035351041769527004,358,0.09776536312849161
+Education_Level_Graduate + Utilization_Level_Low + Transaction_Count_Level_Medium,3,0.03525229584279648,357,0.1484593837535014
+Transaction_Count_Level_Low + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.03525229584279648,357,0.43977591036414565
+Utilization_Level_Low + Education_Level_College,2,0.035153549916065965,356,0.2696629213483146
+Education_Level_Uneducated + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.035153549916065965,356,0.06741573033707865
+Education_Level_Graduate + Utilization_Level_High + Transaction_Count_Level_High,3,0.035153549916065965,356,0.0028089887640449437
+Income_Category_$60K - $80K + Utilization_Level_Low + Age_Group_Middle,3,0.035153549916065965,356,0.22752808988764045
+Education_Level_Graduate + Transaction_Amount_Level_Low + Income_Category_Less than $40K,3,0.03505480398933544,355,0.4112676056338028
+Utilization_Level_Low + Income_Category_Less than $40K + Transaction_Count_Level_Low,3,0.03505480398933544,355,0.8084507042253521
+Income_Category_$40K - $60K + Education_Level_High School,2,0.03505480398933544,355,0.14366197183098592
+Income_Category_$80K - $120K + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.03505480398933544,355,0.1295774647887324
+Age_Group_Middle + Income_Category_Less than $40K + Education_Level_Unknown,3,0.03495605806260492,354,0.1864406779661017
+Education_Level_Uneducated + Age_Group_Young,2,0.03495605806260492,354,0.13559322033898305
+Income_Category_$120K + + Marital_Status_Married,2,0.03495605806260492,354,0.14689265536723164
+Transaction_Amount_Level_Low + Marital_Status_Single + Utilization_Level_Medium,3,0.03495605806260492,354,0.2655367231638418
+Education_Level_Graduate + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.034857312135874396,353,0.1954674220963173
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.034857312135874396,353,0.26062322946175637
+Education_Level_Uneducated + Inactivity_Level_Moderate + Transaction_Amount_Level_High,3,0.034758566209143874,352,0.09943181818181818
+Transaction_Amount_Level_High + Utilization_Level_High + Education_Level_Graduate,3,0.034758566209143874,352,0.014204545454545454
+Age_Group_Old + Transaction_Count_Level_High,2,0.03465982028241335,351,0.019943019943019943
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.03465982028241335,351,0.09971509971509972
+Income_Category_$80K - $120K + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.03465982028241335,351,0.05982905982905983
+Education_Level_Uneducated + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.03465982028241335,351,0.08831908831908832
+Education_Level_College + Transaction_Count_Level_High,2,0.03456107435568283,350,0.017142857142857144
+Education_Level_Graduate + Utilization_Level_High + Transaction_Amount_Level_Medium,3,0.03456107435568283,350,0.045714285714285714
+Transaction_Amount_Level_High + Utilization_Level_High + Transaction_Count_Level_Medium,3,0.034462328428952305,349,0.03724928366762178
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.034462328428952305,349,0.017191977077363897
+Income_Category_$80K - $120K + Transaction_Count_Level_Low + Marital_Status_Married,3,0.034462328428952305,349,0.20916905444126074
+Transaction_Amount_Level_Low + Transaction_Count_Level_Medium,2,0.03436358250222178,348,0.10057471264367816
+Utilization_Level_High + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.03426483657549126,347,0.0
+Utilization_Level_Low + Age_Group_Middle + Education_Level_Unknown,3,0.03426483657549126,347,0.31412103746397696
+Education_Level_Graduate + Utilization_Level_High + Transaction_Count_Level_Low,3,0.03426483657549126,347,0.22478386167146974
+Income_Category_$40K - $60K + Transaction_Count_Level_Low + Marital_Status_Married,3,0.034166090648760736,346,0.2947976878612717
+Transaction_Amount_Level_Low + Age_Group_Middle + Education_Level_High School,3,0.034166090648760736,346,0.34971098265895956
+Income_Category_Less than $40K + Education_Level_College,2,0.03406734472203021,345,0.14202898550724638
+Utilization_Level_Medium + Income_Category_Less than $40K + Marital_Status_Married,3,0.03406734472203021,345,0.10144927536231885
+Income_Category_Less than $40K + Transaction_Count_Level_Low + Marital_Status_Single,3,0.0339685987952997,344,0.6133720930232558
+Income_Category_$40K - $60K + Education_Level_Graduate + Age_Group_Middle,3,0.0339685987952997,344,0.17151162790697674
+Transaction_Amount_Level_High + Education_Level_Unknown + Transaction_Count_Level_High,3,0.0339685987952997,344,0.029069767441860465
+Utilization_Level_Medium + Age_Group_Young + Marital_Status_Married,3,0.0339685987952997,344,0.0872093023255814
+Transaction_Amount_Level_Low + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.033869852868569174,343,0.3760932944606414
+Age_Group_Young + Utilization_Level_High + Transaction_Amount_Level_Low,3,0.033869852868569174,343,0.14285714285714285
+Transaction_Count_Level_Low + Education_Level_College,2,0.033869852868569174,343,0.37900874635568516
+Age_Group_Young + Education_Level_High School + Inactivity_Level_Moderate,3,0.033869852868569174,343,0.15743440233236153
+Income_Category_$80K - $120K + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.033869852868569174,343,0.04956268221574344
+Income_Category_$80K - $120K + Education_Level_Graduate + Inactivity_Level_Moderate,3,0.033869852868569174,343,0.16326530612244897
+Income_Category_Less than $40K + Marital_Status_Single + Utilization_Level_Medium,3,0.03377110694183865,342,0.13450292397660818
+Education_Level_Uneducated + Utilization_Level_Low + Age_Group_Middle,3,0.03377110694183865,342,0.27485380116959063
+Education_Level_Graduate + Utilization_Level_High + Transaction_Amount_Level_Low,3,0.03377110694183865,342,0.19005847953216373
+Transaction_Amount_Level_Low + Education_Level_College,2,0.03377110694183865,342,0.30994152046783624
+Utilization_Level_High + Education_Level_High School + Marital_Status_Married,3,0.03377110694183865,342,0.05555555555555555
+Income_Category_$80K - $120K + Transaction_Amount_Level_High + Age_Group_Middle,3,0.03367236101510813,341,0.15249266862170088
+Age_Group_Young + Marital_Status_Single + Transaction_Count_Level_High,3,0.03367236101510813,341,0.026392961876832845
+Inactivity_Level_Many + Marital_Status_Married,2,0.03367236101510813,341,0.21994134897360704
+Income_Category_$40K - $60K + Utilization_Level_High + Marital_Status_Married,3,0.03367236101510813,341,0.06744868035190615
+Education_Level_Graduate + Utilization_Level_High + Transaction_Count_Level_Medium,3,0.03367236101510813,341,0.020527859237536656
+Transaction_Count_Level_Low + Income_Category_Unknown,2,0.033573615088377605,340,0.47058823529411764
+Marital_Status_Single + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.033573615088377605,340,0.020588235294117647
+Age_Group_Old + Income_Category_Less than $40K + Inactivity_Level_Moderate,3,0.033573615088377605,340,0.15
+Age_Group_Young + Education_Level_Unknown,2,0.033573615088377605,340,0.15294117647058825
+Income_Category_$80K - $120K + Inactivity_Level_Few,2,0.033573615088377605,340,0.05
+Education_Level_Uneducated + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.03337612323491656,338,0.04142011834319527
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.03337612323491656,338,0.19230769230769232
+Education_Level_Uneducated + Age_Group_Middle + Marital_Status_Single,3,0.03337612323491656,338,0.19230769230769232
+Income_Category_Less than $40K + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.03337612323491656,338,0.0
+Age_Group_Old + Utilization_Level_High + Inactivity_Level_Moderate,3,0.03337612323491656,338,0.06804733727810651
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Marital_Status_Single,3,0.033277377308186036,337,0.5074183976261127
+Utilization_Level_High + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.033277377308186036,337,0.10089020771513353
+Transaction_Count_Level_Medium + Marital_Status_Single + Inactivity_Level_Few,3,0.033277377308186036,337,0.02373887240356083
+Education_Level_Uneducated + Age_Group_Middle + Transaction_Amount_Level_High,3,0.033277377308186036,337,0.07418397626112759
+Income_Category_$40K - $60K + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.033277377308186036,337,0.4094955489614243
+Education_Level_Graduate + Age_Group_Young + Marital_Status_Married,3,0.03317863138145551,336,0.14285714285714285
+Transaction_Count_Level_High + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.03317863138145551,336,0.0
+Transaction_Count_Level_Low + Marital_Status_Single + Utilization_Level_Medium,3,0.03298113952799447,334,0.3203592814371258
+Education_Level_Uneducated + Utilization_Level_High + Inactivity_Level_Moderate,3,0.03288239360126395,333,0.12612612612612611
+Income_Category_$80K - $120K + Education_Level_Graduate + Age_Group_Middle,3,0.03288239360126395,333,0.14114114114114115
+Income_Category_$80K - $120K + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.03278364767453343,332,0.1144578313253012
+Income_Category_$60K - $80K + Age_Group_Middle + Marital_Status_Single,3,0.03278364767453343,332,0.13253012048192772
+Education_Level_Graduate + Utilization_Level_Low + Transaction_Amount_Level_Medium,3,0.03278364767453343,332,0.11746987951807229
+Education_Level_Graduate + Income_Category_Unknown,2,0.03278364767453343,332,0.14759036144578314
+Utilization_Level_High + Education_Level_College,2,0.03278364767453343,332,0.09036144578313253
+Transaction_Amount_Level_High + Utilization_Level_Low + Education_Level_Graduate,3,0.03278364767453343,332,0.18072289156626506
+Education_Level_Graduate + Inactivity_Level_Few + Marital_Status_Married,3,0.032684901747802905,331,0.04229607250755287
+Transaction_Count_Level_Low + Age_Group_Middle + Inactivity_Level_Few,3,0.032684901747802905,331,0.12084592145015106
+Age_Group_Young + Marital_Status_Single + Transaction_Amount_Level_Low,3,0.032684901747802905,331,0.24169184290030213
+Income_Category_$80K - $120K + Age_Group_Middle + Transaction_Count_Level_High,3,0.032684901747802905,331,0.02416918429003021
+Income_Category_$80K - $120K + Transaction_Amount_Level_High + Transaction_Count_Level_High,3,0.032684901747802905,331,0.045317220543806644
+Income_Category_$80K - $120K + Age_Group_Young,2,0.03258615582107238,330,0.13333333333333333
+Transaction_Amount_Level_Low + Age_Group_Middle + Inactivity_Level_Few,3,0.03258615582107238,330,0.12121212121212122
+Education_Level_Graduate + Transaction_Count_Level_Low + Marital_Status_Single,3,0.03248740989434186,329,0.49544072948328266
+Transaction_Amount_Level_High + Utilization_Level_Low + Transaction_Count_Level_Medium,3,0.032388663967611336,328,0.43902439024390244
+Age_Group_Middle + Marital_Status_Married + Income_Category_Unknown,3,0.032388663967611336,328,0.16158536585365854
+Transaction_Amount_Level_High + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.032388663967611336,328,0.14329268292682926
+Inactivity_Level_Moderate + Marital_Status_Married + Income_Category_Unknown,3,0.03228991804088081,327,0.17737003058103976
+Income_Category_$60K - $80K + Age_Group_Young,2,0.03228991804088081,327,0.13761467889908258
+Education_Level_Uneducated + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.03228991804088081,327,0.0672782874617737
+Education_Level_Unknown + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.03219117211415029,326,0.12883435582822086
+Age_Group_Middle + Education_Level_Unknown + Utilization_Level_Medium,3,0.03219117211415029,326,0.10736196319018405
+Education_Level_Post-Graduate + Age_Group_Middle,2,0.03219117211415029,326,0.18404907975460122
+Income_Category_$80K - $120K + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.03219117211415029,326,0.006134969325153374
+Education_Level_College + Inactivity_Level_Moderate + Marital_Status_Married,3,0.03209242618741977,325,0.18461538461538463
+Education_Level_College + Utilization_Level_Medium,2,0.03209242618741977,325,0.08615384615384615
+Age_Group_Middle + Education_Level_Unknown + Transaction_Count_Level_High,3,0.03209242618741977,325,0.021538461538461538
+Transaction_Count_Level_Medium + Inactivity_Level_Few + Marital_Status_Married,3,0.031993680260689245,324,0.030864197530864196
+Education_Level_Unknown + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.031993680260689245,324,0.024691358024691357
+Education_Level_Uneducated + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.03189493433395872,323,0.01238390092879257
+Education_Level_Graduate + Transaction_Amount_Level_Low + Marital_Status_Single,3,0.03189493433395872,323,0.4148606811145511
+Education_Level_Graduate + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.0317961884072282,322,0.031055900621118012
+Utilization_Level_Medium + Education_Level_High School + Marital_Status_Married,3,0.0317961884072282,322,0.06521739130434782
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Utilization_Level_Medium,3,0.0317961884072282,322,0.07763975155279502
+Education_Level_Uneducated + Age_Group_Middle + Transaction_Count_Level_High,3,0.0317961884072282,322,0.024844720496894408
+Income_Category_$60K - $80K + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.0317961884072282,322,0.043478260869565216
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.03169744248049768,321,0.17133956386292834
+Income_Category_$80K - $120K + Utilization_Level_Medium + Marital_Status_Married,3,0.03169744248049768,321,0.08722741433021806
+Income_Category_$60K - $80K + Transaction_Count_Level_Low + Marital_Status_Married,3,0.03169744248049768,321,0.22429906542056074
+Transaction_Amount_Level_High + Age_Group_Middle + Education_Level_Unknown,3,0.03169744248049768,321,0.10903426791277258
+Transaction_Count_Level_Medium + Education_Level_College,2,0.03159869655376716,320,0.05625
+Transaction_Amount_Level_Low + Income_Category_Unknown,2,0.03159869655376716,320,0.4
+Marital_Status_Single + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.03149995062703664,319,0.009404388714733543
+Education_Level_Graduate + Transaction_Count_Level_Medium + Utilization_Level_Medium,3,0.031401204700306114,318,0.0660377358490566
+Inactivity_Level_Moderate + Education_Level_Doctorate,2,0.031401204700306114,318,0.25471698113207547
+Income_Category_$60K - $80K + Inactivity_Level_Few,2,0.03130245877357559,317,0.04416403785488959
+Education_Level_College + Age_Group_Middle + Marital_Status_Married,3,0.03130245877357559,317,0.15141955835962145
+Age_Group_Young + Transaction_Count_Level_Medium + Utilization_Level_High,3,0.03130245877357559,317,0.031545741324921134
+Education_Level_Uneducated + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.03130245877357559,317,0.056782334384858045
+Income_Category_$80K - $120K + Transaction_Amount_Level_High + Inactivity_Level_Moderate,3,0.031203712846845068,316,0.2088607594936709
+Transaction_Count_Level_Medium + Age_Group_Young + Income_Category_Less than $40K,3,0.031203712846845068,316,0.08544303797468354
+Income_Category_$60K - $80K + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.031104966920114545,315,0.050793650793650794
+Utilization_Level_Medium + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.031104966920114545,315,0.009523809523809525
+Income_Category_$60K - $80K + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.031006220993384022,314,0.07006369426751592
+Utilization_Level_High + Age_Group_Middle + Education_Level_Unknown,3,0.0309074750666535,313,0.0926517571884984
+Age_Group_Young + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.0309074750666535,313,0.10862619808306709
+Education_Level_Uneducated + Inactivity_Level_Few,2,0.0309074750666535,313,0.04153354632587859
+Transaction_Count_Level_Medium + Marital_Status_Single + Education_Level_High School,3,0.03080872913992298,312,0.08974358974358974
+Utilization_Level_Low + Income_Category_Less than $40K + Transaction_Amount_Level_Low,3,0.03080872913992298,312,0.75
+Education_Level_College + Transaction_Amount_Level_Medium,2,0.030709983213192456,311,0.07395498392282958
+Income_Category_$60K - $80K + Transaction_Count_Level_Medium + Age_Group_Middle,3,0.030709983213192456,311,0.03536977491961415
+Transaction_Amount_Level_High + Age_Group_Young + Marital_Status_Single,3,0.030709983213192456,311,0.1157556270096463
+Education_Level_Uneducated + Income_Category_Less than $40K + Age_Group_Middle,3,0.030709983213192456,311,0.1639871382636656
+Age_Group_Young + Transaction_Count_Level_Low + Utilization_Level_High,3,0.030709983213192456,311,0.18006430868167203
+Age_Group_Young + Marital_Status_Single + Utilization_Level_Medium,3,0.030611237286461934,310,0.08064516129032258
+Income_Category_$60K - $80K + Transaction_Amount_Level_High + Transaction_Count_Level_High,3,0.030611237286461934,310,0.041935483870967745
+Income_Category_Less than $40K + Education_Level_High School + Marital_Status_Married,3,0.030611237286461934,310,0.13870967741935483
+Income_Category_$40K - $60K + Transaction_Count_Level_Low + Age_Group_Middle,3,0.03051249135973141,309,0.45307443365695793
+Income_Category_$60K - $80K + Transaction_Count_Level_Low + Age_Group_Middle,3,0.03051249135973141,309,0.313915857605178
+Age_Group_Middle + Education_Level_Doctorate,2,0.03051249135973141,309,0.24919093851132687
+Utilization_Level_Low + Income_Category_Less than $40K + Transaction_Amount_Level_Medium,3,0.03051249135973141,309,0.21359223300970873
+Income_Category_$80K - $120K + Education_Level_High School,2,0.030413745433000888,308,0.1331168831168831
+Income_Category_$40K - $60K + Age_Group_Young + Inactivity_Level_Moderate,3,0.030314999506270365,307,0.16286644951140064
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Inactivity_Level_Few,3,0.030314999506270365,307,0.02280130293159609
+Income_Category_$60K - $80K + Education_Level_High School,2,0.030314999506270365,307,0.13680781758957655
+Transaction_Amount_Level_High + Marital_Status_Single + Inactivity_Level_Few,3,0.030216253579539845,306,0.03594771241830065
+Age_Group_Old + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.030216253579539845,306,0.07516339869281045
+Marital_Status_Single + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.030117507652809322,305,0.20655737704918034
+Income_Category_$60K - $80K + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.030117507652809322,305,0.003278688524590164
+Income_Category_$40K - $60K + Utilization_Level_Low + Age_Group_Middle,3,0.030117507652809322,305,0.3836065573770492
+Education_Level_Graduate + Age_Group_Young + Marital_Status_Single,3,0.0300187617260788,304,0.14802631578947367
+Marital_Status_Single + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.029920015799348276,303,0.056105610561056105
+Income_Category_$80K - $120K + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.029821269872617753,302,0.039735099337748346
+Education_Level_Uneducated + Age_Group_Middle + Utilization_Level_Medium,3,0.029821269872617753,302,0.10264900662251655
+Transaction_Count_Level_Medium + Utilization_Level_Low + Income_Category_Less than $40K,3,0.029525032092426188,299,0.16722408026755853
+Education_Level_Graduate + Age_Group_Young + Transaction_Amount_Level_Low,3,0.029525032092426188,299,0.2140468227424749
+Transaction_Count_Level_Low + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.029426286165695665,298,0.6442953020134228
+Age_Group_Middle + Transaction_Count_Level_Low + Education_Level_Unknown,3,0.029327540238965142,297,0.4511784511784512
+Age_Group_Young + Income_Category_Less than $40K + Transaction_Amount_Level_Medium,3,0.02922879431223462,296,0.10472972972972973
+Age_Group_Old + Inactivity_Level_Moderate + Education_Level_Graduate,3,0.02922879431223462,296,0.11824324324324324
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Age_Group_Middle,3,0.02922879431223462,296,0.41216216216216217
+Age_Group_Old + Inactivity_Level_Few,2,0.02922879431223462,296,0.08108108108108109
+Income_Category_$60K - $80K + Transaction_Amount_Level_High + Age_Group_Middle,3,0.0291300483855041,295,0.0711864406779661
+Transaction_Amount_Level_High + Utilization_Level_Low + Income_Category_Less than $40K,3,0.0291300483855041,295,0.15593220338983052
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Education_Level_College,3,0.0291300483855041,295,0.3525423728813559
+Inactivity_Level_Moderate + Utilization_Level_Medium + Income_Category_Unknown,3,0.0291300483855041,295,0.09491525423728814
+Transaction_Amount_Level_High + Age_Group_Young + Income_Category_Less than $40K,3,0.029031302458773577,294,0.07482993197278912
+Income_Category_$80K - $120K + Utilization_Level_Low + Marital_Status_Married,3,0.028932556532043054,293,0.21160409556313994
+Income_Category_Less than $40K + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.028932556532043054,293,0.0
+Marital_Status_Single + Inactivity_Level_Few + Utilization_Level_Medium,3,0.02883381060531253,292,0.030821917808219176
+Education_Level_Graduate + Utilization_Level_Low + Income_Category_Less than $40K,3,0.02883381060531253,292,0.410958904109589
+Income_Category_$60K - $80K + Education_Level_Graduate + Inactivity_Level_Moderate,3,0.02883381060531253,292,0.13013698630136986
+Income_Category_$60K - $80K + Utilization_Level_Medium + Marital_Status_Married,3,0.02883381060531253,292,0.06506849315068493
+Age_Group_Young + Income_Category_Less than $40K + Transaction_Amount_Level_Low,3,0.028735064678582008,291,0.281786941580756
+Utilization_Level_High + Transaction_Count_Level_Medium + Inactivity_Level_Few,3,0.028735064678582008,291,0.006872852233676976
+Education_Level_Graduate + Utilization_Level_Low + Transaction_Count_Level_High,3,0.028735064678582008,291,0.027491408934707903
+Education_Level_Graduate + Age_Group_Young + Income_Category_Less than $40K,3,0.028636318751851485,290,0.1896551724137931
+Inactivity_Level_Few + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.028636318751851485,290,0.006896551724137931
+Utilization_Level_Low + Inactivity_Level_Few + Marital_Status_Married,3,0.028636318751851485,290,0.1
+Utilization_Level_High + Income_Category_Less than $40K + Education_Level_Unknown,3,0.028537572825120965,289,0.08650519031141868
+Age_Group_Young + Utilization_Level_High + Transaction_Amount_Level_Medium,3,0.028537572825120965,289,0.04498269896193772
+Transaction_Amount_Level_High + Marital_Status_Single + Education_Level_High School,3,0.028438826898390442,288,0.09375
+Utilization_Level_Low + Income_Category_$120K + + Age_Group_Middle,3,0.028438826898390442,288,0.22916666666666666
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low + Age_Group_Middle,3,0.028438826898390442,288,0.2673611111111111
+Education_Level_Graduate + Income_Category_Less than $40K + Utilization_Level_Medium,3,0.02834008097165992,287,0.11846689895470383
+Age_Group_Young + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.02834008097165992,287,0.013937282229965157
+Utilization_Level_Low + Marital_Status_Single + Inactivity_Level_Few,3,0.028241335044929396,286,0.11188811188811189
+Utilization_Level_Low + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.028241335044929396,286,0.32167832167832167
+Utilization_Level_Low + Education_Level_High School + Marital_Status_Married,3,0.028142589118198873,285,0.34035087719298246
+Income_Category_$60K - $80K + Age_Group_Middle + Transaction_Count_Level_High,3,0.028142589118198873,285,0.014035087719298246
+Income_Category_Less than $40K + Marital_Status_Single + Inactivity_Level_Few,3,0.028142589118198873,285,0.08070175438596491
+Utilization_Level_Low + Age_Group_Young + Transaction_Amount_Level_Low,3,0.028142589118198873,285,0.4245614035087719
+Age_Group_Young + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.02804384319146835,284,0.15845070422535212
+Income_Category_$60K - $80K + Utilization_Level_High,2,0.02804384319146835,284,0.045774647887323945
+Age_Group_Old + Education_Level_High School,2,0.02794509726473783,283,0.19434628975265017
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Income_Category_Unknown,3,0.02794509726473783,283,0.43109540636042404
+Income_Category_$60K - $80K + Transaction_Amount_Level_High + Inactivity_Level_Moderate,3,0.02794509726473783,283,0.12367491166077739
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Education_Level_Graduate,3,0.02794509726473783,283,0.22968197879858657
+Marital_Status_Single + Education_Level_High School + Transaction_Count_Level_High,3,0.02794509726473783,283,0.01060070671378092
+Education_Level_Uneducated + Transaction_Count_Level_Low + Age_Group_Middle,3,0.02794509726473783,283,0.4558303886925795
+Income_Category_$80K - $120K + Utilization_Level_Low + Marital_Status_Single,3,0.02794509726473783,283,0.2332155477031802
+Transaction_Amount_Level_Low + Income_Category_$120K +,2,0.027846351338007308,282,0.28368794326241137
+Transaction_Amount_Level_High + Inactivity_Level_Few + Utilization_Level_Medium,3,0.027846351338007308,282,0.024822695035460994
+Marital_Status_Single + Inactivity_Level_Many,2,0.027846351338007308,282,0.2730496453900709
+Transaction_Amount_Level_High + Utilization_Level_High + Inactivity_Level_Few,3,0.027846351338007308,282,0.010638297872340425
+Education_Level_Graduate + Age_Group_Young + Transaction_Count_Level_Low,3,0.027747605411276785,281,0.28113879003558717
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Inactivity_Level_Few,3,0.027747605411276785,281,0.02491103202846975
+Income_Category_$60K - $80K + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.027747605411276785,281,0.028469750889679714
+Transaction_Amount_Level_High + Education_Level_High School + Marital_Status_Married,3,0.027747605411276785,281,0.07473309608540925
+Transaction_Amount_Level_High + Marital_Status_Unknown,2,0.027648859484546262,280,0.08928571428571429
+Transaction_Count_Level_High + Inactivity_Level_Few + Utilization_Level_Medium,3,0.027648859484546262,280,0.0035714285714285713
+Income_Category_Unknown + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.027648859484546262,280,0.10357142857142858
+Education_Level_College + Inactivity_Level_Moderate + Marital_Status_Single,3,0.027648859484546262,280,0.18571428571428572
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Utilization_Level_Medium,3,0.02755011355781574,279,0.06451612903225806
+Income_Category_Less than $40K + Age_Group_Young + Transaction_Count_Level_Low,3,0.027451367631085216,278,0.37410071942446044
+Marital_Status_Divorced + Transaction_Amount_Level_Medium,2,0.027451367631085216,278,0.05755395683453238
+Transaction_Count_Level_Medium + Inactivity_Level_Few + Utilization_Level_Medium,3,0.027451367631085216,278,0.025179856115107913
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.027451367631085216,278,0.07913669064748201
+Transaction_Count_Level_Low + Income_Category_$120K +,2,0.027451367631085216,278,0.33093525179856115
+Education_Level_Uneducated + Utilization_Level_High + Age_Group_Middle,3,0.027451367631085216,278,0.1079136690647482
+Utilization_Level_Low + Age_Group_Young + Transaction_Count_Level_Medium,3,0.027352621704354697,277,0.17328519855595667
+Age_Group_Young + Income_Category_Unknown,2,0.027253875777624174,276,0.13043478260869565
+Income_Category_Less than $40K + Inactivity_Level_Many,2,0.027253875777624174,276,0.213768115942029
+Transaction_Amount_Level_High + Education_Level_Graduate + Inactivity_Level_Few,3,0.02715512985089365,275,0.03636363636363636
+Transaction_Count_Level_Low + Education_Level_Unknown + Marital_Status_Married,3,0.02715512985089365,275,0.3236363636363636
+Income_Category_Less than $40K + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.02715512985089365,275,0.04727272727272727
+Utilization_Level_Low + Income_Category_$120K + + Inactivity_Level_Moderate,3,0.02715512985089365,275,0.26181818181818184
+Income_Category_$120K + + Marital_Status_Single,2,0.027056383924163128,274,0.21532846715328466
+Marital_Status_Divorced + Transaction_Count_Level_Medium,2,0.027056383924163128,274,0.06934306569343066
+Transaction_Amount_Level_Low + Age_Group_Middle + Education_Level_Unknown,3,0.026957637997432605,273,0.40293040293040294
+Age_Group_Old + Utilization_Level_High + Marital_Status_Married,3,0.026957637997432605,273,0.03663003663003663
+Utilization_Level_High + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.026858892070702082,272,0.0
+Transaction_Count_Level_High + Education_Level_High School + Marital_Status_Married,3,0.026858892070702082,272,0.01838235294117647
+Marital_Status_Unknown + Transaction_Amount_Level_Medium,2,0.026760146143971562,271,0.06642066420664207
+Utilization_Level_Low + Age_Group_Young + Marital_Status_Married,3,0.026760146143971562,271,0.3062730627306273
+Marital_Status_Unknown + Transaction_Count_Level_High,2,0.026760146143971562,271,0.01107011070110701
+Transaction_Amount_Level_High + Transaction_Count_Level_High + Income_Category_Unknown,3,0.026760146143971562,271,0.0036900369003690036
+Income_Category_$60K - $80K + Education_Level_Graduate + Age_Group_Middle,3,0.026760146143971562,271,0.11808118081180811
+Transaction_Count_Level_Low + Inactivity_Level_Many,2,0.026760146143971562,271,0.5756457564575646
+Utilization_Level_Low + Age_Group_Young + Transaction_Count_Level_Low,3,0.026562654290510516,269,0.550185873605948
+Utilization_Level_High + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.026562654290510516,269,0.0037174721189591076
+Income_Category_$40K - $60K + Education_Level_Unknown,2,0.026562654290510516,269,0.18587360594795538
+Education_Level_Uneducated + Transaction_Count_Level_Low + Marital_Status_Married,3,0.026562654290510516,269,0.2862453531598513
+Income_Category_$40K - $60K + Utilization_Level_High + Marital_Status_Single,3,0.026463908363779994,268,0.08208955223880597
+Income_Category_$40K - $60K + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.026463908363779994,268,0.06343283582089553
+Income_Category_Less than $40K + Marital_Status_Single + Education_Level_High School,3,0.02636516243704947,267,0.13857677902621723
+Utilization_Level_Medium + Income_Category_$40K - $60K + Marital_Status_Married,3,0.02636516243704947,267,0.08239700374531835
+Age_Group_Middle + Education_Level_High School + Inactivity_Level_Few,3,0.02636516243704947,267,0.0299625468164794
+Utilization_Level_High + Transaction_Count_Level_Low + Marital_Status_Single,3,0.02636516243704947,267,0.41198501872659177
+Income_Category_$120K + + Utilization_Level_Medium,2,0.02636516243704947,267,0.11235955056179775
+Utilization_Level_High + Income_Category_Unknown,2,0.02636516243704947,267,0.12359550561797752
+Income_Category_$40K - $60K + Age_Group_Old,2,0.02626641651031895,266,0.12030075187969924
+Education_Level_Graduate + Age_Group_Young + Transaction_Count_Level_Medium,3,0.02626641651031895,266,0.09398496240601503
+Transaction_Amount_Level_High + Age_Group_Old + Transaction_Count_Level_High,3,0.026167670583588428,265,0.026415094339622643
+Utilization_Level_Medium + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.026167670583588428,265,0.0
+Transaction_Amount_Level_Low + Inactivity_Level_Few + Utilization_Level_Medium,3,0.026167670583588428,265,0.06415094339622641
+Utilization_Level_Low + Marital_Status_Unknown,2,0.026167670583588428,265,0.3018867924528302
+Transaction_Amount_Level_High + Age_Group_Middle + Income_Category_Unknown,3,0.026167670583588428,265,0.06037735849056604
+Education_Level_Graduate + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.026068924656857905,264,0.0
+Utilization_Level_High + Marital_Status_Single + Transaction_Amount_Level_Low,3,0.026068924656857905,264,0.32575757575757575
+Transaction_Amount_Level_High + Age_Group_Young + Marital_Status_Married,3,0.026068924656857905,264,0.10984848484848485
+Education_Level_Uneducated + Utilization_Level_High + Income_Category_Less than $40K,3,0.026068924656857905,264,0.09090909090909091
+Age_Group_Old + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.026068924656857905,264,0.07196969696969698
+Income_Category_Less than $40K + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.026068924656857905,264,0.01893939393939394
+Age_Group_Old + Utilization_Level_High + Income_Category_Less than $40K,3,0.025970178730127382,263,0.06844106463878327
+Education_Level_Graduate + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.025970178730127382,263,0.0076045627376425855
+Education_Level_Graduate + Age_Group_Young + Utilization_Level_High,3,0.025970178730127382,263,0.06844106463878327
+Utilization_Level_Low + Income_Category_Less than $40K + Transaction_Count_Level_High,3,0.02587143280339686,262,0.03435114503816794
+Transaction_Count_Level_Medium + Marital_Status_Unknown,2,0.02587143280339686,262,0.08015267175572519
+Inactivity_Level_Few + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.02587143280339686,262,0.011450381679389313
+Education_Level_Uneducated + Age_Group_Young + Inactivity_Level_Moderate,3,0.02587143280339686,262,0.15648854961832062
+Age_Group_Young + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.02587143280339686,262,0.11450381679389313
+Utilization_Level_High + Marital_Status_Single + Inactivity_Level_Few,3,0.025772686876666336,261,0.038314176245210725
+Marital_Status_Single + Education_Level_High School + Utilization_Level_Medium,3,0.025772686876666336,261,0.1111111111111111
+Education_Level_Graduate + Inactivity_Level_Few + Utilization_Level_Medium,3,0.025772686876666336,261,0.05363984674329502
+Marital_Status_Divorced + Utilization_Level_Low,2,0.025772686876666336,261,0.2950191570881226
+Utilization_Level_Low + Marital_Status_Single + Education_Level_High School,3,0.025772686876666336,261,0.2835249042145594
+Utilization_Level_Low + Transaction_Count_Level_High + Transaction_Amount_Level_Medium,3,0.025673940949935817,260,0.0
+Education_Level_Graduate + Marital_Status_Single + Inactivity_Level_Few,3,0.025673940949935817,260,0.057692307692307696
+Utilization_Level_High + Marital_Status_Single + Education_Level_High School,3,0.025673940949935817,260,0.057692307692307696
+Utilization_Level_Low + Inactivity_Level_Many,2,0.025673940949935817,260,0.4076923076923077
+Income_Category_$40K - $60K + Transaction_Count_Level_High + Marital_Status_Married,3,0.025673940949935817,260,0.007692307692307693
+Education_Level_Uneducated + Transaction_Amount_Level_Low + Marital_Status_Married,3,0.025673940949935817,260,0.22692307692307692
+Transaction_Amount_Level_Low + Education_Level_Unknown + Marital_Status_Married,3,0.025575195023205294,259,0.28185328185328185
+Transaction_Count_Level_Medium + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.025575195023205294,259,0.08494208494208494
+Marital_Status_Unknown + Utilization_Level_Medium,2,0.025575195023205294,259,0.10424710424710425
+Income_Category_$80K - $120K + Utilization_Level_Low + Transaction_Count_Level_Low,3,0.025575195023205294,259,0.42857142857142855
+Utilization_Level_Low + Age_Group_Middle + Income_Category_Unknown,3,0.025575195023205294,259,0.2972972972972973
+Utilization_Level_High + Transaction_Count_Level_Medium + Education_Level_High School,3,0.02547644909647477,258,0.015503875968992248
+Transaction_Amount_Level_High + Utilization_Level_Low + Inactivity_Level_Few,3,0.02547644909647477,258,0.06589147286821706
+Transaction_Amount_Level_High + Education_Level_College + Transaction_Count_Level_High,3,0.02547644909647477,258,0.023255813953488372
+Education_Level_High School + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.02547644909647477,258,0.09689922480620156
+Education_Level_Uneducated + Transaction_Amount_Level_Low + Age_Group_Middle,3,0.02547644909647477,258,0.4186046511627907
+Age_Group_Young + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.02547644909647477,258,0.08527131782945736
+Transaction_Count_Level_Medium + Education_Level_High School + Marital_Status_Married,3,0.02547644909647477,258,0.07364341085271318
+Inactivity_Level_Few + Income_Category_Unknown,2,0.025377703169744248,257,0.054474708171206226
+Age_Group_Middle + Utilization_Level_Medium + Income_Category_Unknown,3,0.025377703169744248,257,0.08560311284046693
+Inactivity_Level_Moderate + Transaction_Count_Level_High + Income_Category_Unknown,3,0.025377703169744248,257,0.0038910505836575876
+Utilization_Level_Low + Inactivity_Level_Few + Transaction_Count_Level_High,3,0.025278957243013725,256,0.0078125
+Utilization_Level_Low + Transaction_Count_Level_Low + Education_Level_High School,3,0.025278957243013725,256,0.60546875
+Transaction_Amount_Level_Low + Education_Level_High School + Utilization_Level_Medium,3,0.025278957243013725,256,0.15625
+Income_Category_$80K - $120K + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.025180211316283202,255,0.1411764705882353
+Transaction_Amount_Level_Low + Transaction_Count_Level_Medium + Inactivity_Level_Moderate,3,0.025081465389552682,254,0.1141732283464567
+Income_Category_Less than $40K + Education_Level_Unknown + Marital_Status_Married,3,0.025081465389552682,254,0.17716535433070865
+Education_Level_Graduate + Transaction_Count_Level_Medium + Inactivity_Level_Few,3,0.025081465389552682,254,0.031496062992125984
+Marital_Status_Divorced + Income_Category_Less than $40K,2,0.025081465389552682,254,0.18110236220472442
+Age_Group_Old + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.025081465389552682,254,0.08267716535433071
+Age_Group_Middle + Transaction_Count_Level_High + Income_Category_Unknown,3,0.025081465389552682,254,0.003937007874015748
+Transaction_Amount_Level_High + Age_Group_Middle + Education_Level_College,3,0.02498271946282216,253,0.05533596837944664
+Utilization_Level_Low + Education_Level_College + Inactivity_Level_Moderate,3,0.02498271946282216,253,0.31620553359683795
+Marital_Status_Divorced + Transaction_Amount_Level_High,2,0.02498271946282216,253,0.08695652173913043
+Transaction_Count_Level_Low + Education_Level_College + Inactivity_Level_Moderate,3,0.02498271946282216,253,0.42292490118577075
+Utilization_Level_High + Inactivity_Level_Many,2,0.024883973536091637,252,0.09523809523809523
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Marital_Status_Married,3,0.024883973536091637,252,0.07539682539682539
+Marital_Status_Divorced + Transaction_Count_Level_High,2,0.024883973536091637,252,0.011904761904761904
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Utilization_Level_High,3,0.024883973536091637,252,0.007936507936507936
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.024883973536091637,252,0.07142857142857142
+Age_Group_Old + Utilization_Level_Low + Inactivity_Level_Moderate,3,0.024785227609361114,251,0.29880478087649404
+Transaction_Amount_Level_High + Inactivity_Level_Many,2,0.024785227609361114,251,0.09163346613545817
+Income_Category_$40K - $60K + Education_Level_Graduate + Marital_Status_Married,3,0.024785227609361114,251,0.13147410358565736
+Utilization_Level_High + Education_Level_Unknown + Marital_Status_Married,3,0.024785227609361114,251,0.0796812749003984
+Transaction_Count_Level_Low + Inactivity_Level_Few + Utilization_Level_Medium,3,0.024785227609361114,251,0.07569721115537849
+Transaction_Amount_Level_High + Income_Category_Less than $40K + Education_Level_High School,3,0.024785227609361114,251,0.05976095617529881
+Transaction_Amount_Level_High + Education_Level_College + Inactivity_Level_Moderate,3,0.024785227609361114,251,0.08764940239043825
+Age_Group_Young + Education_Level_College,2,0.024785227609361114,251,0.1394422310756972
+Income_Category_$40K - $60K + Utilization_Level_High + Transaction_Count_Level_High,3,0.024785227609361114,251,0.0
+Age_Group_Young + Inactivity_Level_Few + Marital_Status_Married,3,0.024785227609361114,251,0.06374501992031872
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Income_Category_$120K +,3,0.024785227609361114,251,0.3147410358565737
+Transaction_Amount_Level_Low + Education_Level_College + Inactivity_Level_Moderate,3,0.02468648168263059,250,0.336
+Income_Category_$120K + + Inactivity_Level_Moderate + Marital_Status_Married,3,0.02468648168263059,250,0.164
+Income_Category_Less than $40K + Marital_Status_Unknown,2,0.02468648168263059,250,0.188
+Income_Category_$40K - $60K + Marital_Status_Single + Utilization_Level_Medium,3,0.02468648168263059,250,0.096
+Utilization_Level_High + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.02468648168263059,250,0.064
+Income_Category_$120K + + Age_Group_Middle + Marital_Status_Married,3,0.02468648168263059,250,0.128
+Age_Group_Young + Transaction_Count_Level_Low + Marital_Status_Single,3,0.02468648168263059,250,0.42
+Marital_Status_Divorced + Utilization_Level_Medium,2,0.02468648168263059,250,0.104
+Income_Category_$80K - $120K + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.024587735755900068,249,0.1566265060240964
+Income_Category_$40K - $60K + Education_Level_Uneducated,2,0.024587735755900068,249,0.1646586345381526
+Income_Category_Unknown + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.024587735755900068,249,0.08032128514056225
+Age_Group_Old + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.024587735755900068,249,0.0642570281124498
+Transaction_Count_Level_Low + Education_Level_High School + Utilization_Level_Medium,3,0.024488989829169548,248,0.1935483870967742
+Inactivity_Level_Many + Age_Group_Middle + Marital_Status_Married,3,0.024488989829169548,248,0.2056451612903226
+Income_Category_Unknown + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.024488989829169548,248,0.016129032258064516
+Income_Category_$40K - $60K + Utilization_Level_High + Transaction_Count_Level_Medium,3,0.024488989829169548,248,0.024193548387096774
+Income_Category_$40K - $60K + Age_Group_Middle + Inactivity_Level_Few,3,0.024488989829169548,248,0.028225806451612902
+Utilization_Level_Low + Age_Group_Young + Transaction_Amount_Level_Medium,3,0.024390243902439025,247,0.14979757085020243
+Age_Group_Old + Income_Category_Less than $40K + Marital_Status_Married,3,0.024390243902439025,247,0.10526315789473684
+Transaction_Amount_Level_Low + Inactivity_Level_Many,2,0.024390243902439025,247,0.5263157894736842
+Transaction_Amount_Level_High + Inactivity_Level_Moderate + Age_Group_Old,3,0.024291497975708502,246,0.08943089430894309
+Income_Category_Less than $40K + Education_Level_College + Inactivity_Level_Moderate,3,0.024291497975708502,246,0.17073170731707318
+Education_Level_Unknown + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.024291497975708502,246,0.07317073170731707
+Transaction_Amount_Level_High + Utilization_Level_High + Education_Level_High School,3,0.02419275204897798,245,0.004081632653061225
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Marital_Status_Single,3,0.02419275204897798,245,0.09387755102040816
+Utilization_Level_Low + Education_Level_Graduate + Age_Group_Young,3,0.02419275204897798,245,0.2979591836734694
+Age_Group_Young + Marital_Status_Single + Inactivity_Level_Few,3,0.02419275204897798,245,0.08979591836734693
+Income_Category_$40K - $60K + Inactivity_Level_Moderate + Education_Level_High School,3,0.02419275204897798,245,0.1673469387755102
+Education_Level_College + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.02419275204897798,245,0.024489795918367346
+Utilization_Level_High + Education_Level_High School + Transaction_Count_Level_High,3,0.024094006122247456,244,0.0
+Age_Group_Young + Transaction_Count_Level_High + Marital_Status_Married,3,0.024094006122247456,244,0.02459016393442623
+Income_Category_Less than $40K + Education_Level_High School + Transaction_Count_Level_High,3,0.024094006122247456,244,0.00819672131147541
+Income_Category_$80K - $120K + Utilization_Level_Low + Transaction_Count_Level_Medium,3,0.024094006122247456,244,0.1557377049180328
+Transaction_Count_Level_Medium + Income_Category_Less than $40K + Education_Level_High School,3,0.024094006122247456,244,0.08196721311475409
+Transaction_Count_Level_Low + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.023995260195516933,243,0.5102880658436214
+Income_Category_$80K - $120K + Utilization_Level_Low + Transaction_Amount_Level_Low,3,0.023995260195516933,243,0.37037037037037035
+Education_Level_College + Age_Group_Middle + Transaction_Count_Level_High,3,0.023995260195516933,243,0.012345679012345678
+Education_Level_Post-Graduate + Marital_Status_Married,2,0.023995260195516933,243,0.1522633744855967
+Age_Group_Young + Transaction_Count_Level_Medium + Utilization_Level_Medium,3,0.02379776834205589,241,0.07053941908713693
+Education_Level_Graduate + Age_Group_Young + Transaction_Amount_Level_Medium,3,0.02379776834205589,241,0.06639004149377593
+Income_Category_$80K - $120K + Age_Group_Young + Inactivity_Level_Moderate,3,0.02379776834205589,241,0.14107883817427386
+Income_Category_$60K - $80K + Age_Group_Young + Inactivity_Level_Moderate,3,0.02379776834205589,241,0.15767634854771784
+Inactivity_Level_Many + Transaction_Count_Level_High,2,0.023699022415325368,240,0.029166666666666667
+Income_Category_$40K - $60K + Marital_Status_Single + Transaction_Count_Level_High,3,0.023699022415325368,240,0.008333333333333333
+Income_Category_$80K - $120K + Education_Level_Graduate + Marital_Status_Married,3,0.023600276488594845,239,0.12133891213389121
+Inactivity_Level_Many + Transaction_Amount_Level_Medium,2,0.023600276488594845,239,0.11715481171548117
+Age_Group_Young + Utilization_Level_High + Transaction_Count_Level_High,3,0.023600276488594845,239,0.008368200836820083
+Education_Level_College + Inactivity_Level_Moderate + Utilization_Level_Medium,3,0.023501530561864322,238,0.08823529411764706
+Age_Group_Old + Transaction_Count_Level_Medium + Transaction_Amount_Level_Medium,3,0.023501530561864322,238,0.008403361344537815
+Transaction_Count_Level_Medium + Education_Level_Unknown + Marital_Status_Single,3,0.023501530561864322,238,0.08403361344537816
+Age_Group_Middle + Education_Level_Unknown + Inactivity_Level_Few,3,0.023501530561864322,238,0.04201680672268908
+Income_Category_$80K - $120K + Age_Group_Middle + Inactivity_Level_Few,3,0.0234027846351338,237,0.0379746835443038
+Income_Category_Less than $40K + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.0234027846351338,237,0.09282700421940929
+Marital_Status_Divorced + Utilization_Level_High,2,0.0234027846351338,237,0.0759493670886076
+Age_Group_Young + Education_Level_Unknown + Inactivity_Level_Moderate,3,0.0234027846351338,237,0.1729957805907173
+Utilization_Level_Low + Transaction_Amount_Level_High + Age_Group_Young,3,0.0234027846351338,237,0.21518987341772153
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Utilization_Level_Medium,3,0.0234027846351338,237,0.2320675105485232
+Transaction_Count_Level_Medium + Age_Group_Middle + Income_Category_Unknown,3,0.0234027846351338,237,0.07172995780590717
+Income_Category_$80K - $120K + Utilization_Level_Low + Transaction_Amount_Level_Medium,3,0.02330403870840328,236,0.0635593220338983
+Utilization_Level_Low + Transaction_Count_Level_Medium + Inactivity_Level_Few,3,0.02330403870840328,236,0.0635593220338983
+Education_Level_Graduate + Age_Group_Young + Utilization_Level_Medium,3,0.02330403870840328,236,0.07627118644067797
+Utilization_Level_Medium + Age_Group_Young + Transaction_Count_Level_High,3,0.02330403870840328,236,0.012711864406779662
+Age_Group_Middle + Marital_Status_Single + Income_Category_Unknown,3,0.02330403870840328,236,0.21610169491525424
+Income_Category_$40K - $60K + Utilization_Level_High + Transaction_Amount_Level_Medium,3,0.02330403870840328,236,0.03389830508474576
+Utilization_Level_Low + Age_Group_Young + Income_Category_Less than $40K,3,0.023205292781672757,235,0.3446808510638298
+Transaction_Amount_Level_High + Age_Group_Young + Utilization_Level_High,3,0.023205292781672757,235,0.02553191489361702
+Age_Group_Old + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.023106546854942234,234,0.06837606837606838
+Education_Level_Graduate + Income_Category_Less than $40K + Inactivity_Level_Few,3,0.023106546854942234,234,0.042735042735042736
+Income_Category_Less than $40K + Education_Level_Unknown + Marital_Status_Single,3,0.02300780092821171,233,0.1759656652360515
+Transaction_Amount_Level_High + Income_Category_$120K +,2,0.02300780092821171,233,0.15879828326180256
+Utilization_Level_Low + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.02300780092821171,233,0.034334763948497854
+Education_Level_Uneducated + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.02300780092821171,233,0.0815450643776824
+Age_Group_Old + Inactivity_Level_Moderate + Transaction_Count_Level_High,3,0.02300780092821171,233,0.012875536480686695
+Income_Category_Less than $40K + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.022909055001481188,232,0.33620689655172414
+Utilization_Level_High + Education_Level_College + Inactivity_Level_Moderate,3,0.022810309074750665,231,0.11255411255411256
+Transaction_Count_Level_Low + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.022810309074750665,231,0.645021645021645
+Income_Category_$60K - $80K + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.022711563148020145,230,0.12173913043478261
+Age_Group_Young + Utilization_Level_Medium + Transaction_Amount_Level_Medium,3,0.022612817221289622,229,0.039301310043668124
+Education_Level_Uneducated + Income_Category_Less than $40K + Marital_Status_Married,3,0.022612817221289622,229,0.12663755458515283
+Transaction_Amount_Level_Low + Income_Category_Less than $40K + Utilization_Level_Medium,3,0.022612817221289622,229,0.2663755458515284
+Education_Level_Graduate + Inactivity_Level_Many,2,0.0225140712945591,228,0.2324561403508772
+Education_Level_Graduate + Utilization_Level_High + Inactivity_Level_Few,3,0.0225140712945591,228,0.013157894736842105
+Transaction_Count_Level_Medium + Income_Category_$120K +,2,0.0225140712945591,228,0.10964912280701754
+Education_Level_Post-Graduate + Age_Group_Middle + Inactivity_Level_Moderate,3,0.0225140712945591,228,0.20614035087719298
+Income_Category_$60K - $80K + Marital_Status_Single + Utilization_Level_Medium,3,0.0225140712945591,228,0.10087719298245613
+Education_Level_Graduate + Marital_Status_Unknown,2,0.022415325367828576,227,0.15859030837004406
+Utilization_Level_Medium + Education_Level_Uneducated + Marital_Status_Married,3,0.022415325367828576,227,0.07488986784140969
+Age_Group_Young + Marital_Status_Single + Education_Level_High School,3,0.022415325367828576,227,0.15859030837004406
+Transaction_Amount_Level_Low + Transaction_Count_Level_Low + Inactivity_Level_Many,3,0.022415325367828576,227,0.5506607929515418
+Transaction_Amount_Level_Low + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.022415325367828576,227,0.44052863436123346
+Utilization_Level_Low + Education_Level_High School + Transaction_Amount_Level_Low,3,0.022415325367828576,227,0.5770925110132159
+Education_Level_Graduate + Inactivity_Level_Moderate + Income_Category_Unknown,3,0.022316579441098053,226,0.18584070796460178
+Income_Category_$80K - $120K + Education_Level_High School + Inactivity_Level_Moderate,3,0.022316579441098053,226,0.1504424778761062
+Transaction_Count_Level_Medium + Inactivity_Level_Many,2,0.022316579441098053,226,0.07964601769911504
+Income_Category_$80K - $120K + Utilization_Level_High,2,0.022316579441098053,226,0.10619469026548672
+Marital_Status_Divorced + Education_Level_Graduate,2,0.022217833514367534,225,0.16
+Utilization_Level_Low + Education_Level_College + Age_Group_Middle,3,0.022217833514367534,225,0.28888888888888886
+Education_Level_High School + Income_Category_Unknown,2,0.022217833514367534,225,0.19111111111111112
+Utilization_Level_Medium + Income_Category_$40K - $60K + Transaction_Count_Level_High,3,0.022217833514367534,225,0.0044444444444444444
+Inactivity_Level_Many + Utilization_Level_Medium,2,0.022217833514367534,225,0.22666666666666666
+Utilization_Level_High + Marital_Status_Unknown,2,0.022217833514367534,225,0.09777777777777778
+Utilization_Level_High + Transaction_Amount_Level_Low + Inactivity_Level_Few,3,0.02211908758763701,224,0.0625
+Utilization_Level_Medium + Age_Group_Old + Marital_Status_Married,3,0.02211908758763701,224,0.08482142857142858
+Transaction_Count_Level_Medium + Education_Level_College + Inactivity_Level_Moderate,3,0.02211908758763701,224,0.0625
+Education_Level_Graduate + Inactivity_Level_Few + Transaction_Amount_Level_Medium,3,0.02211908758763701,224,0.013392857142857142
+Utilization_Level_Low + Education_Level_Unknown + Marital_Status_Married,3,0.022020341660906488,223,0.33183856502242154
+Education_Level_College + Age_Group_Middle + Marital_Status_Single,3,0.022020341660906488,223,0.16591928251121077
+Utilization_Level_Low + Age_Group_Young + Transaction_Count_Level_High,3,0.022020341660906488,223,0.05829596412556054
+Income_Category_$60K - $80K + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.022020341660906488,223,0.15695067264573992
+Marital_Status_Divorced + Transaction_Count_Level_Low,2,0.021921595734175965,222,0.44594594594594594
+Utilization_Level_Low + Education_Level_Unknown + Marital_Status_Single,3,0.021921595734175965,222,0.2927927927927928
+Education_Level_High School + Inactivity_Level_Few + Marital_Status_Married,3,0.021822849807445442,221,0.04072398190045249
+Income_Category_$120K + + Transaction_Count_Level_High,2,0.021822849807445442,221,0.04072398190045249
+Education_Level_College + Inactivity_Level_Moderate + Transaction_Amount_Level_Medium,3,0.021822849807445442,221,0.09502262443438914
+Income_Category_$80K - $120K + Transaction_Amount_Level_High + Utilization_Level_Low,3,0.021822849807445442,221,0.2579185520361991
+Age_Group_Old + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.021822849807445442,221,0.1493212669683258
+Education_Level_Unknown + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.02172410388071492,220,0.07727272727272727
+Education_Level_College + Inactivity_Level_Few,2,0.02172410388071492,220,0.05
+Education_Level_Uneducated + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.02172410388071492,220,0.05
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Utilization_Level_Medium,3,0.02172410388071492,220,0.16363636363636364
+Income_Category_$80K - $120K + Education_Level_Unknown,2,0.0216253579539844,219,0.1506849315068493
+Education_Level_Uneducated + Income_Category_Less than $40K + Marital_Status_Single,3,0.0216253579539844,219,0.1689497716894977
+Transaction_Amount_Level_High + Age_Group_Young + Utilization_Level_Medium,3,0.0216253579539844,219,0.1004566210045662
+Utilization_Level_Medium + Education_Level_High School + Transaction_Count_Level_High,3,0.0216253579539844,219,0.0091324200913242
+Income_Category_$60K - $80K + Utilization_Level_Low + Marital_Status_Single,3,0.021526612027253877,218,0.23394495412844038
+Education_Level_Uneducated + Marital_Status_Married + Transaction_Amount_Level_High,3,0.021526612027253877,218,0.08256880733944955
+Age_Group_Young + Transaction_Count_Level_Medium + Inactivity_Level_Few,3,0.021526612027253877,218,0.07339449541284404
+Income_Category_$80K - $120K + Education_Level_Graduate + Utilization_Level_Low,3,0.021526612027253877,218,0.21100917431192662
+Income_Category_$40K - $60K + Education_Level_Graduate + Utilization_Level_High,3,0.021526612027253877,218,0.04128440366972477
+Utilization_Level_High + Transaction_Count_Level_Low + Inactivity_Level_Few,3,0.021526612027253877,218,0.06422018348623854
+Age_Group_Old + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.021526612027253877,218,0.1743119266055046
+Transaction_Amount_Level_High + Education_Level_High School + Utilization_Level_Medium,3,0.021427866100523354,217,0.07373271889400922
+Income_Category_$60K - $80K + Education_Level_High School + Inactivity_Level_Moderate,3,0.021427866100523354,217,0.16589861751152074
+Income_Category_$40K - $60K + Education_Level_Graduate + Marital_Status_Single,3,0.021427866100523354,217,0.1336405529953917
+Education_Level_Uneducated + Utilization_Level_High + Marital_Status_Married,3,0.021427866100523354,217,0.07373271889400922
+Income_Category_$80K - $120K + Education_Level_Uneducated,2,0.021427866100523354,217,0.17050691244239632
+Marital_Status_Divorced + Transaction_Amount_Level_Low,2,0.021427866100523354,217,0.3824884792626728
+Education_Level_College + Age_Group_Middle + Utilization_Level_Medium,3,0.021427866100523354,217,0.07373271889400922
+Transaction_Count_Level_Low + Marital_Status_Unknown,2,0.02132912017379283,216,0.4861111111111111
+Inactivity_Level_Moderate + Age_Group_Middle + Education_Level_Doctorate,3,0.02132912017379283,216,0.3194444444444444
+Income_Category_$40K - $60K + Transaction_Amount_Level_Low + Utilization_Level_High,3,0.02132912017379283,216,0.18981481481481483
+Age_Group_Young + Utilization_Level_High + Inactivity_Level_Few,3,0.021230374247062308,215,0.04186046511627907
+Utilization_Level_Low + Education_Level_High School + Transaction_Amount_Level_Medium,3,0.021230374247062308,215,0.13488372093023257
+Age_Group_Old + Income_Category_Less than $40K + Marital_Status_Single,3,0.021230374247062308,215,0.19069767441860466
+Income_Category_$40K - $60K + Transaction_Count_Level_Low + Utilization_Level_Medium,3,0.021131628320331785,214,0.19158878504672897
+Income_Category_$40K - $60K + Transaction_Amount_Level_High + Utilization_Level_Medium,3,0.021131628320331785,214,0.06074766355140187
+Marital_Status_Single + Education_Level_Unknown + Transaction_Count_Level_High,3,0.021131628320331785,214,0.04205607476635514
+Utilization_Level_Medium + Education_Level_Unknown + Marital_Status_Married,3,0.021131628320331785,214,0.08411214953271028
+Age_Group_Young + Income_Category_Less than $40K + Inactivity_Level_Few,3,0.021032882393601265,213,0.08450704225352113
+Age_Group_Old + Utilization_Level_High + Transaction_Amount_Level_Low,3,0.021032882393601265,213,0.107981220657277
+Income_Category_$80K - $120K + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.020934136466870742,212,0.07075471698113207
+Age_Group_Young + Transaction_Amount_Level_Low + Inactivity_Level_Few,3,0.020934136466870742,212,0.09905660377358491
+Income_Category_$120K + + Transaction_Amount_Level_Medium,2,0.020934136466870742,212,0.04245283018867924
+Education_Level_Uneducated + Utilization_Level_Low + Marital_Status_Married,3,0.020934136466870742,212,0.2830188679245283
+Income_Category_$60K - $80K + Utilization_Level_Low + Marital_Status_Married,3,0.02083539054014022,211,0.2796208530805687
+Income_Category_$40K - $60K + Marital_Status_Married + Transaction_Amount_Level_Medium,3,0.02083539054014022,211,0.07582938388625593
+Income_Category_$80K - $120K + Age_Group_Middle + Education_Level_High School,3,0.02083539054014022,211,0.14691943127962084
+Education_Level_Uneducated + Age_Group_Old,2,0.02083539054014022,211,0.16113744075829384
+Income_Category_$40K - $60K + Transaction_Count_Level_Medium + Marital_Status_Married,3,0.020736644613409697,210,0.10952380952380952
+Income_Category_$60K - $80K + Education_Level_Unknown,2,0.020736644613409697,210,0.14761904761904762
+Income_Category_Less than $40K + Education_Level_Unknown + Transaction_Amount_Level_Medium,3,0.020637898686679174,209,0.0861244019138756
+Income_Category_$60K - $80K + Marital_Status_Single + Transaction_Amount_Level_Medium,3,0.020637898686679174,209,0.023923444976076555
+Transaction_Amount_Level_High + Education_Level_Unknown + Marital_Status_Married,3,0.020637898686679174,209,0.10526315789473684
+Transaction_Amount_Level_High + Transaction_Count_Level_Medium + Inactivity_Level_Few,3,0.020637898686679174,209,0.10526315789473684
+Income_Category_Less than $40K + Age_Group_Middle + Education_Level_College,3,0.02053915275994865,208,0.15384615384615385
+Transaction_Count_Level_Medium + Education_Level_Unknown + Marital_Status_Married,3,0.02053915275994865,208,0.10576923076923077
+Income_Category_Less than $40K + Inactivity_Level_Few + Utilization_Level_Medium,3,0.02053915275994865,208,0.052884615384615384
+Income_Category_$40K - $60K + Utilization_Level_Low + Marital_Status_Married,3,0.02053915275994865,208,0.3942307692307692
+Income_Category_$80K - $120K + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.02044040683321813,207,0.0966183574879227
+Transaction_Amount_Level_High + Utilization_Level_Low + Education_Level_High School,3,0.02044040683321813,207,0.1932367149758454
+Transaction_Count_Level_Medium + Education_Level_High School + Utilization_Level_Medium,3,0.02044040683321813,207,0.06280193236714976
+Income_Category_$60K - $80K + Transaction_Count_Level_Medium + Marital_Status_Single,3,0.02044040683321813,207,0.07246376811594203
+Transaction_Amount_Level_High + Education_Level_Unknown + Marital_Status_Single,3,0.020341660906487608,206,0.11165048543689321
+Age_Group_Old + Utilization_Level_High + Transaction_Count_Level_Low,3,0.020341660906487608,206,0.15048543689320387
+Income_Category_$40K - $60K + Inactivity_Level_Few + Marital_Status_Married,3,0.020341660906487608,206,0.05339805825242718
+Income_Category_$40K - $60K + Utilization_Level_High + Transaction_Count_Level_Low,3,0.020242914979757085,205,0.21951219512195122
+Transaction_Count_Level_High + Education_Level_Unknown + Marital_Status_Married,3,0.020242914979757085,205,0.004878048780487805
+Income_Category_$60K - $80K + Education_Level_Graduate + Marital_Status_Married,3,0.020242914979757085,205,0.11219512195121951
+Education_Level_Doctorate + Marital_Status_Married,2,0.020242914979757085,205,0.22439024390243903
+Income_Category_Less than $40K + Age_Group_Old + Transaction_Count_Level_Low,3,0.020242914979757085,205,0.32682926829268294
+Age_Group_Old + Transaction_Amount_Level_Low + Income_Category_Less than $40K,3,0.020242914979757085,205,0.2780487804878049
+Transaction_Amount_Level_High + Marital_Status_Unknown + Transaction_Count_Level_High,3,0.020242914979757085,205,0.014634146341463415
+Transaction_Amount_Level_High + Age_Group_Young + Education_Level_Graduate,3,0.020144169053026562,204,0.14215686274509803
+Income_Category_$80K - $120K + Marital_Status_Single + Utilization_Level_Medium,3,0.020144169053026562,204,0.0784313725490196
+Education_Level_Uneducated + Transaction_Count_Level_High + Marital_Status_Married,3,0.020144169053026562,204,0.029411764705882353
+Education_Level_College + Age_Group_Middle + Transaction_Amount_Level_Medium,3,0.020144169053026562,204,0.08823529411764706
+Education_Level_Graduate + Income_Category_$120K +,2,0.020144169053026562,204,0.1568627450980392
+Education_Level_Graduate + Age_Group_Middle + Income_Category_Unknown,3,0.02004542312629604,203,0.1625615763546798
+Transaction_Count_Level_Medium + Age_Group_Middle + Education_Level_College,3,0.02004542312629604,203,0.054187192118226604
+Utilization_Level_High + Education_Level_College + Age_Group_Middle,3,0.02004542312629604,203,0.08866995073891626
+Income_Category_$80K - $120K + Transaction_Amount_Level_High + Marital_Status_Married,3,0.02004542312629604,203,0.1477832512315271
+Transaction_Amount_Level_Low + Income_Category_$120K + + Inactivity_Level_Moderate,3,0.02004542312629604,203,0.27586206896551724
+Transaction_Count_Level_Low + Inactivity_Level_Moderate + Income_Category_$120K +,3,0.02004542312629604,203,0.3251231527093596
+Utilization_Level_Medium + Education_Level_Unknown + Marital_Status_Single,3,0.02004542312629604,203,0.13793103448275862
